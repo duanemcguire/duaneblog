@@ -1,4 +1,9 @@
+# v1
 /page/* /
 /category/:dir/:slug /category/:slug
 /category/uncategorized /category
 /category/:dir/*/page/* /category/:dir
+# v2
+/author/* /
+/:year/:month/:day/:slug /blog/:slug
+/chords https://mcguirepiano.com/jazzflash/
