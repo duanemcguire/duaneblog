@@ -1,5 +1,5 @@
 ---
-img: /images/excerpt/oJUaDQAiBQe.png
+img: /images/excerpt/zion.jpg
 category: [travel,best-of-facebook]
 title: "Zion"
 date: "2019-01-20"

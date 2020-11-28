@@ -2,6 +2,7 @@
 category: [family]
 title: "A House"
 date: "2019-02-24"
+img: /images/excerpt/a-house.jpg
 ---
 
 In about 1942, my Dad, Harvey McGuire built a house with Grandpa Henkel. That house became a home for the family that Harvey and LaRue McGuire created. It will always be remembered as a place of love and stability. It was the McGuire Family home for sixty-six years.  Here are some of the images of the place as we remember.

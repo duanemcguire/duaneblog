@@ -1,5 +1,5 @@
 ---
-img: /images/excerpt/newTech.jpg
+img: /images/excerpt/oldTech.jpg
 category: [historic-technology,random-thoughts,family]
 title: "New Tech meets Old Tech"
 date: "2013-05-28"
