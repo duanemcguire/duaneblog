@@ -13,8 +13,10 @@ Here's the details on the electrical: The sub panel is fed from an 80 amp breake
 
 Circuit details for the shop: 30A 220: Planer 30A 220: Dust collection 20A 110: Perimeter outlets A 20A 110: Perimeter outlets B 20A 110: Table saw 20A 110: Jointer 20A 110: Attic outlets 20A 110: Storage outlets 15A 110: Shop Lighting A 15A 110: Shop Lighting B 15A 110: Storage/Attic Lighting 15A 110: Swamp Cooler 15A 110: Garage Door opener
 
-Lighting for the main shop will be 15 8' 2-lamp T12 fixtures that I picked up used at a good price. ![Electrical panel](/images/electrical_panel_1.jpg)  
-  
+Lighting for the main shop will be 15 8' 2-lamp T12 fixtures that I picked up used at a good price.
+
+![Electrical panel](/images/electrical_panel_1.jpg)  
+
 ![Electrical panel](/images/electrical_panel_2.jpg)  
-  
+
 ![Door and panel](/images/door_and_panel.jpg)

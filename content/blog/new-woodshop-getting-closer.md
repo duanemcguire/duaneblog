@@ -1,5 +1,5 @@
 ---
-img: /images/excerpt/shop.jpg
+img: /images/excerpt/floorplan.png
 category: [projects,woodshop]
 title: "New Woodshop: Getting closer"
 date: "2008-06-29"
@@ -15,6 +15,18 @@ I had once dreamed of building a timber-framed woodshop, but time and locale pre
 - dust collection system
 - 11' ceiling height
 - Usable attic space above
+
+<embed src="/images/shop/shop.pdf" width="718" height="500" type='application/pdf'>
+
+<embed src="/images/shop/Shop East Elevation.pdf" width="718" height="500" type='application/pdf'>
+
+<embed src="/images/shop/Shop South Elevation Attic Option.pdf" width="718" height="500" type='application/pdf'>
+
+<embed src="/images/shop/shop section.pdf" width="718" height="500" type='application/pdf'>
+
+
+<embed src="/images/shop/shop foundation detail.pdf" width="718" height="500" type='application/pdf'>
+
 
 [![](/images/shop.jpg "Floorplan: Click for PDF")](/images/shop/shop.pdf)
 

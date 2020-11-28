@@ -2,7 +2,7 @@
 category: [musical,projects]
 title: "A sequencer for Jazz Chord Practice"
 date: "2019-12-01"
-coverImage: "icon-512x512-1.png"
+img: /images/excerpt/b-maj7.png
 ---
 
 As I work to develop my "Jazz vocabulary", I wanted an electronic flashcard tool that would help me with ingraining jazz chord patterns at the piano.   Since I didn't find what I wanted, I wrote the app.

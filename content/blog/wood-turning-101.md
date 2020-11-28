@@ -1,5 +1,5 @@
 ---
-img: /images/excerpt/3825726841_b772d9a690.jpg
+img: /images/excerpt/lathe.jpg
 category: [woodshop]
 title: "Wood turning 101"
 date: "2009-08-16"
