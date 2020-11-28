@@ -3,7 +3,7 @@ category: [best-of-facebook,woodshop]
 title: "Building Kayaks"
 date: "2020-08-01"
 img: /images/kayak.png
-excerpt: It was a warm summer day and my brother Bob and I were trying to convince our parents that we needed to cool off. My uncle Mart had an old row boat. We hoped we could make a float trip down the Tippecanoe River. 
+excerpt: It was a warm summer day and my brother Bob and I were trying to convince our parents that we needed to cool off. My uncle Mart had an old row boat. We hoped we could make a float trip down the Tippecanoe River.
 ---
 
 > I've never built a kayak! This is the story of Roy Rudd. When I read his story, I felt as though I'd been there. Worked the wood, floated the river.
@@ -32,5 +32,6 @@ I was scanning the Web a few day back and was reading a thread about a guy that 
 
 Over the years, I thought it would be nice to build the same boats and go down the Tippecanoe with my boys. The time passed, and I thought maybe I'll make them with my Grandkids. That didn't happen either. Now that I have the book, and seventy year old knees, I'll place the book where my Great Grandson will see it. I'll put a copy of this story between page 96 and 97. Maybe he will be inspired like we were when we were kids.
 
-\-- Roy Rudd - July 10, 2020
+![](/images/kayak.jpg)
 
+\-- Roy Rudd - July 10, 2020

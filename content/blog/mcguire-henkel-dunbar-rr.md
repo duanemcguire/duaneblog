@@ -27,8 +27,18 @@ I didn't calculate the weight of a pallet load of 6 X 16 retaining wall blocks b
 
 
 
+
+![](/images/DSC00657.resized.jpg)
+
+![](/images/IMG_20200806_124855.jpg)
+
+![](/images/IMG_20200806_124915.jpg)
+
+
+
+
 In our travels, we've seen some impressive garden railroads in public gardens. The most impressive resides in Lauritzen Gardens at Omaha, Nebraska. Here's a view of that railroad:
 
-https://www.youtube.com/watch?v=3JtpIAaFuu8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3JtpIAaFuu8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Toot! Toot! Stay tuned.
