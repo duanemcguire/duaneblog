@@ -1,5 +1,5 @@
 ---
-img: /images/duane_mcguire_1976-1024x718.jpg
+img: /images/excerpt/duane_mcguire_1976-1024x718.jpg
 category: [historic-technology]
 title: "Pullman Coach 645 - Seattle 1976"
 date: "2011-12-06"

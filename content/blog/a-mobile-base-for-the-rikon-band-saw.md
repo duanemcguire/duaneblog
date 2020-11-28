@@ -1,5 +1,5 @@
 ---
-img: /images/full.jpg
+img: /images/excerpt/full.jpg
 category: [woodshop,projects,family]
 title: "A mobile base for the Rikon Band Saw"
 date: "2010-12-25"

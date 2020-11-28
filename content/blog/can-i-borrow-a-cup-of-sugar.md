@@ -1,5 +1,5 @@
 ---
-img: /images/Screenshot-from-2019-08-15-20-33-18.png
+img: /images/excerpt/Screenshot-from-2019-08-15-20-33-18.png
 category: [random-thoughts]
 title: "Can I borrow a cup of sugar"
 date: "2019-08-16"

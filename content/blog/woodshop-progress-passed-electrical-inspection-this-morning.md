@@ -1,5 +1,5 @@
 ---
-img: /images/electrical_panel_1.jpg
+img: /images/excerpt/electrical_panel_1.jpg
 category: [projects,woodshop]
 title: "Woodshop progress: Passed electrical inspection this morning!"
 date: "2008-12-23"

@@ -1,5 +1,5 @@
 ---
-img: /images/18813506_10213480536835631_4509839824072163032_n.jpg
+img: /images/excerpt/18813506_10213480536835631_4509839824072163032_n.jpg
 category: [best-of-facebook,travel]
 title: "The Center of the Universe: Tulsa OK"
 date: "2017-05-30"

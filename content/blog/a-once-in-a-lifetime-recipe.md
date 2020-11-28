@@ -1,5 +1,5 @@
 ---
-img: /images/2018-12-18-20.52.26-1024x768.jpg
+img: /images/excerpt/2018-12-18-20.52.26-1024x768.jpg
 category: [random-thoughts,family]
 title: "A once in a lifetime recipe"
 date: "2018-12-19"

@@ -23,8 +23,8 @@ export default {
     var blogs = await $content('blog', {
         text: true
       })
-      .only(['title', 'description', 'img', 'slug', 'excerpt', 'body'])
-      .limit(9)
+      .only(['title', 'description', 'img', 'slug', 'excerpt', 'body', 'date'])
+      .limit(12)
       .sortBy('date', 'desc')
       .fetch()
 

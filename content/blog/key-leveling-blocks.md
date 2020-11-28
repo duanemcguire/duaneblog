@@ -1,5 +1,5 @@
 ---
-img: /images/8329150649_983a8ea9f1.jpg
+img: /images/excerpt/8329150649_983a8ea9f1.jpg
 category: [piano_technology,woodshop,projects]
 title: "Key Leveling Blocks"
 date: "2012-12-31"

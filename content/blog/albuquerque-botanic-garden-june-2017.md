@@ -1,5 +1,5 @@
 ---
-img: /images/18836682_10213517813567526_2577599921993994867_o.jpg
+img: /images/excerpt/18836682_10213517813567526_2577599921993994867_o.jpg
 category: [best-of-facebook,travel,garden]
 title: "Albuquerque Botanic Garden, June 2017"
 date: "2017-06-03"

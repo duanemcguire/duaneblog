@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20190218_123643-1024x768.jpg
+img: /images/excerpt/IMG_20190218_123643-1024x768.jpg
 category: [projects,woodshop,historic-technology]
 title: "A first metal lathe project"
 date: "2019-02-18"

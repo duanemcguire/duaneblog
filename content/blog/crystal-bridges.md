@@ -2,7 +2,7 @@
 category: [best-of-facebook,travel]
 title: "Crystal Bridges, Bentonville Arkansas"
 date: "2017-05-30"
-img: /images/18766575_10213475735035589_5654195881636013173_o.jpg
+img: /images/excerpt/18766575_10213475735035589_5654195881636013173_o.jpg
 ---
 
 [Crystal Bridges](https://crystalbridges.org/) was not a place that was even on our radar two weeks ago. Some things, people, and places are simply meant to come your way. Alice Walton (WalMart heiress and philanthropist) conceived it, funded it, and donated her extensive art collection. The architect was Moshe Safdie, who also designed the downtown Salt Lake City Public Library. Buildings are modern covered bridges, built with concrete, metal, and lots of glass. A Chihuly exhibit is in the works. If that isn't enough, they acquired an endangered Frank Lloyd Wright home, moved it, and reconstructed it. The price to visit this amazing place? $0! Facebook only allows 30 photos; I'll do my best! (Terri)

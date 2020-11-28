@@ -1,5 +1,5 @@
 ---
-img: /images/woodstove1.jpg
+img: /images/excerpt/woodstove1.jpg
 category: [projects,woodshop]
 title: "Woodstove for the woodshop"
 date: "2008-11-23"

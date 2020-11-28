@@ -1,5 +1,5 @@
 ---
-img: /images/6296420553_6e7420e3e9.jpg
+img: /images/excerpt/6296420553_6e7420e3e9.jpg
 category: [woodshop,projects,family]
 title: "Coffee Table"
 date: "2011-10-31"

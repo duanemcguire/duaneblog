@@ -2,7 +2,7 @@
 category: [woodshop,bebop,projects]
 title: "More improvements for Bebop"
 date: "2020-06-26"
-img: /images/EE3A794D-8FA6-4845-8908-8C536EA68508-scaled.jpeg
+img: /images/excerpt/EE3A794D-8FA6-4845-8908-8C536EA68508-scaled.jpeg
 ---
 
 She’s an expensive dog, and worth it! Now complete is a new walkway to the shop, and concrete steps.

@@ -2,7 +2,7 @@
 category: [random-thoughts,projects]
 title: "A roof in a day"
 date: "2020-07-02"
-img: /images/2020-07-01-10.57.21.jpg
+img: /images/excerpt/2020-07-01-10.57.21.jpg
 ---
 
 Our house was built 17 years ago. A look around the neighborhood will tell you that the roofing jobs were not the very best. We found that we were at the point of doing repairs which would probably continue annually. Since we plan to be here for many years, we decided on a new roof.

@@ -1,5 +1,5 @@
 ---
-img: /images/shop.jpg
+img: /images/excerpt/shop.jpg
 category: [projects,woodshop]
 title: "New Woodshop: Getting closer"
 date: "2008-06-29"

@@ -1,5 +1,5 @@
 ---
-img: /images/DSC00602-1024x683.jpg
+img: /images/excerpt/DSC00602-1024x683.jpg
 category: [bebop]
 title: "Bebop considers getting a job"
 date: "2020-07-21"

@@ -1,5 +1,5 @@
 ---
-img: /images/12274573_10206406547257388_5109520132201307650_n.jpg
+img: /images/excerpt/12274573_10206406547257388_5109520132201307650_n.jpg
 category: [historic-technology,piano_technology]
 title: "Thoughts on Smoke Stacks"
 date: "2015-11-23"

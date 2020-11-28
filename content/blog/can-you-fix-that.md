@@ -1,5 +1,5 @@
 ---
-img: /images/piano-foot-repair-1024x678.png
+img: /images/excerpt/piano-foot-repair-1024x678.png
 category: [projects,woodshop,musical]
 title: "Can you fix that?"
 date: "2020-06-12"

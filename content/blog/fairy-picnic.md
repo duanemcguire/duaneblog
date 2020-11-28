@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20170923_101848.jpg
+img: /images/excerpt/IMG_20170923_101848.jpg
 category: [travel,random-thoughts]
 title: "Fairy Picnic"
 date: "2017-09-23"

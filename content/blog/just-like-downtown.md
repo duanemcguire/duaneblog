@@ -1,5 +1,5 @@
 ---
-img: /images/12540576_1225412840809357_123419855129492875_n.jpg
+img: /images/excerpt/12540576_1225412840809357_123419855129492875_n.jpg
 category: [piano_technology,historic-technology,family,projects]
 title: "Just Like Downtown"
 date: "2019-04-24"

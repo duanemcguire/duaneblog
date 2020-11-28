@@ -1,5 +1,5 @@
 ---
-img: /images/Screenshot-from-2020-08-29-15-41-06.png
+img: /images/excerpt/Screenshot-from-2020-08-29-15-41-06.png
 category: [woodshop]
 title: "Rikon 10-325 Bandsaw tune up"
 date: "2020-08-29"

@@ -1,5 +1,5 @@
 ---
-img: /images/harryGoldson.jpg
+img: /images/excerpt/harryGoldson.jpg
 category: [random-thoughts]
 title: "Tenor Sax!"
 date: "2004-03-02"

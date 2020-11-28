@@ -1,5 +1,5 @@
 ---
-img: /images/freightliner.jpg
+img: /images/excerpt/freightliner.jpg
 category: [projects,woodshop]
 title: "The Paint Job"
 date: "2009-11-24"

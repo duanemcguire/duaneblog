@@ -1,5 +1,5 @@
 ---
-img: /images/4223093472_8ca69f86fd.jpg
+img: /images/excerpt/4223093472_8ca69f86fd.jpg
 category: [woodshop]
 title: "One man’s dream: The Shop is “Complete”"
 date: "2009-12-28"

@@ -1,5 +1,5 @@
 ---
-img: /images/2017-03-03-15.28.02-1024x768.jpg
+img: /images/excerpt/2017-03-03-15.28.02-1024x768.jpg
 category: [family,piano-performance]
 title: "Ashokan Farewell Piano Performance"
 date: "2020-06-19"

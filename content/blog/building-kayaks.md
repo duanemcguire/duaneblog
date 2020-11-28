@@ -2,7 +2,7 @@
 category: [best-of-facebook,woodshop]
 title: "Building Kayaks"
 date: "2020-08-01"
-img: /images/kayak.png
+img: /images/excerpt/kayak.png
 excerpt: It was a warm summer day and my brother Bob and I were trying to convince our parents that we needed to cool off. My uncle Mart had an old row boat. We hoped we could make a float trip down the Tippecanoe River.
 ---
 

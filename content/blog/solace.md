@@ -1,5 +1,5 @@
 ---
-img: /images/jenna-228x300.jpg
+img: /images/excerpt/jenna-228x300.jpg
 category: [family]
 title: "Solace"
 date: "2017-10-27"

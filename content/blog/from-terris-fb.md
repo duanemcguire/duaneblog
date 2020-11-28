@@ -2,7 +2,7 @@
 category: [garden,family,best-of-facebook]
 title: "From Terri's FB"
 date: "2020-06-11"
-img: /images/103000389_10223793316528678_2006414670150953465_n.jpg
+img: /images/excerpt/103000389_10223793316528678_2006414670150953465_n.jpg
 ---
 
 I completed my second garden peace pole today (blue); the yellow pole was completed last year. There are solar lights on the top. The fire pit patio is still in progress.

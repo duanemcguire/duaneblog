@@ -1,5 +1,5 @@
 ---
-img: /images/McPartlandp48.gif
+img: /images/excerpt/McPartlandp48.gif
 category: [musical,piano-performance]
 title: "Joy of performance"
 date: "2006-02-24"

@@ -1,5 +1,5 @@
 ---
-img: /images/3635380791_b043fd3e13.jpg
+img: /images/excerpt/3635380791_b043fd3e13.jpg
 category: [historic-technology]
 title: "Trackless Trolley Coach 643"
 date: "2011-12-04"

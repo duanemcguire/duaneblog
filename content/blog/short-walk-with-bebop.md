@@ -1,5 +1,5 @@
 ---
-img: /images/Screenshot-from-2020-10-11-07-52-41.png
+img: /images/excerpt/Screenshot-from-2020-10-11-07-52-41.png
 category: [bebop]
 title: "Short Walk With Bebop"
 date: "2020-10-11"

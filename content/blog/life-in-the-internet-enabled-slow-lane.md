@@ -1,5 +1,5 @@
 ---
-img: /images/cord.jpg
+img: /images/excerpt/cord.jpg
 category: [random-thoughts]
 title: "Life in the internet-enabled slow lane"
 date: "2012-04-09"

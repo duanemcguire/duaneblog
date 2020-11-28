@@ -2,7 +2,7 @@
 category: [family]
 title: "Father's Day 2020: Remembering Harvey McGuire"
 date: "2020-06-21"
-img: /images/63-Carol-Harvey-Nadine-Duane-scaled.jpg
+img: /images/excerpt/63-Carol-Harvey-Nadine-Duane-scaled.jpg
 
 ---
 

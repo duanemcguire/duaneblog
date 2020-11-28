@@ -1,5 +1,5 @@
 ---
-img: /images/2016-03-13-16.45.24.jpg
+img: /images/excerpt/2016-03-13-16.45.24.jpg
 category: [woodshop,projects]
 title: "Clamp Rack"
 date: "2016-03-13"

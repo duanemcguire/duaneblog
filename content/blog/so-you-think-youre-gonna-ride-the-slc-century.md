@@ -1,5 +1,5 @@
 ---
-img: /images/theride.jpg
+img: /images/excerpt/theride.jpg
 category: [cycling]
 title: "So you think you’re gonna ride the SLC Century?"
 date: "2009-03-02"

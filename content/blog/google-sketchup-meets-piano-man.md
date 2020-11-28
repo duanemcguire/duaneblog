@@ -1,5 +1,5 @@
 ---
-img: /images/rampOnStepsWeb.jpg
+img: /images/excerpt/rampOnStepsWeb.jpg
 category: [piano_technology]
 title: "Google Sketchup Meets Piano Man"
 date: "2008-02-17"

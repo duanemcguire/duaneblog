@@ -1,5 +1,5 @@
 ---
-img: /images/plate.jpg
+img: /images/excerpt/plate.jpg
 category: [piano_technology]
 title: "Stieff Plate Removal and Veneer repairs"
 date: "2007-08-05"

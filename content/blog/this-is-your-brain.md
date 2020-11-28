@@ -1,5 +1,5 @@
 ---
-img: /images/flxible.jpg
+img: /images/excerpt/flxible.jpg
 category: [random-thoughts]
 title: "This is your brain"
 date: "2015-10-29"

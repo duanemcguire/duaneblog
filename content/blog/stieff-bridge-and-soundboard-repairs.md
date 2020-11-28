@@ -1,5 +1,5 @@
 ---
-img: /images/soundboardcomplete.jpg
+img: /images/excerpt/soundboardcomplete.jpg
 category: [piano_technology]
 title: "Stieff Bridge and Soundboard Repairs"
 date: "2007-09-02"

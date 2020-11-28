@@ -1,5 +1,5 @@
 ---
-img: /images/5192632348_f17a4304ed.jpg
+img: /images/excerpt/5192632348_f17a4304ed.jpg
 category: [woodshop]
 title: "A new bandsaw for the shop"
 date: "2010-11-20"

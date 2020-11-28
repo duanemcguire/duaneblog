@@ -1,5 +1,5 @@
 ---
-img: /images/east-july-21-3-pm.jpg
+img: /images/excerpt/east-july-21-3-pm.jpg
 category: [projects,woodshop]
 title: "2014 - The year of the deck"
 date: "2014-04-09"

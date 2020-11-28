@@ -4,10 +4,13 @@
     <img class="card-img-top img-fluid" :src="blog.img" :alt="blog.caption">
   </a>
   <div class="card-body">
+    {{blog.date}}
     <a :href="'/blog/' + blog.slug">
-      <h5 class="card-title">{{blog.title}}</h5>
+      <div class="card-title">{{blog.title}}</div>
     </a>
     <div class="blog-card-excerpt">{{postExcerpt}}</div>
+
+
   </div>
 
 </div>
@@ -43,6 +46,19 @@
   overflow: hidden;
   text-overflow: ellipsis;
   margin: 0;
+}
+
+.blog-card img {
+  height: 240px;
+  width: auto;
+  overflow: hidden;
+}
+
+.card-title {
+  font-size: 1.1rem;
+  font-weight: bold;
+  height: 1.5rem;
+  overflow: hidden;
 }
 </style>
 

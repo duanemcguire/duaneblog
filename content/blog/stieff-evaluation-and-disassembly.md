@@ -1,5 +1,5 @@
 ---
-img: /images/disassembly.jpg
+img: /images/excerpt/disassembly.jpg
 category: [piano_technology]
 title: "Stieff Evaluation and Disassembly"
 date: "2007-07-06"

@@ -1,5 +1,5 @@
 ---
-img: /images/62-Duane-Treehouse-756x1024.jpg
+img: /images/excerpt/62-Duane-Treehouse-756x1024.jpg
 category: [health]
 title: "Non-Athletic Exercise"
 date: "2018-12-31"

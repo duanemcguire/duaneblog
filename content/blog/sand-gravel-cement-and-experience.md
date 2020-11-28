@@ -1,5 +1,5 @@
 ---
-img: /images/DSC00546-1024x991.jpg
+img: /images/excerpt/DSC00546-1024x991.jpg
 category: [projects,family,garden]
 title: "Sand, Gravel, and Cement, Mixed With Experience"
 date: "2020-07-06"

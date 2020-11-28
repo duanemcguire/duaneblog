@@ -1,5 +1,5 @@
 ---
-img: /images/92516865_10222142477138102_1602392430588461056_o-1024x768.jpg
+img: /images/excerpt/92516865_10222142477138102_1602392430588461056_o-1024x768.jpg
 category: [projects,bebop,woodshop,garden]
 title: "A fence for Bebop"
 date: "2020-04-18"

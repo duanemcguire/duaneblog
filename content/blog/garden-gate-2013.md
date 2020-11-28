@@ -1,5 +1,5 @@
 ---
-img: /images/8753013793_333e818c47.jpg
+img: /images/excerpt/8753013793_333e818c47.jpg
 category: [woodshop,projects]
 title: "Garden Gate - 2013"
 date: "2013-05-19"

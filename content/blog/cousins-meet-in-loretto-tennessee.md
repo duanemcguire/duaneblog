@@ -2,7 +2,7 @@
 category: [travel,woodshop,best-of-facebook]
 title: "Cousins Meet in Loretto Tennessee"
 date: "2017-05-18"
-img: /images/18519485_10212907856998370_2024333704102858193_n.jpg
+img: /images/excerpt/18519485_10212907856998370_2024333704102858193_n.jpg
 ---
 
 Yesterday found us in Loretto, Tennessee, where my great-grandfather John Henkel immigrated with his family in 1879. We left with glad hearts, and a dulcimer made by my cousin, Henry Beckman. I had visited in Loretto 17 years ago, but did not meet Henry at the time. So we got together for the first time in 65 years. I figured where the old Henkel home was, and noted, not too surprisingly, a house next door with an interesting shop out back. A dulcimer icon was hanging by the mailbox. Pretty sure that I'd found kin, I walked into the shop and hollered "Are you a Beckman?". A three hour visit ensued. What a joy! John Henkel (b 1842) is the great-grandfather of both me and Henry.

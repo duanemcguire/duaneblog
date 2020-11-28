@@ -1,5 +1,5 @@
 ---
-img: /images/shop_door_3_crop.jpg
+img: /images/excerpt/shop_door_3_crop.jpg
 category: [projects,woodshop]
 title: "A door for the new shop"
 date: "2008-10-11"

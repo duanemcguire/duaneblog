@@ -1,5 +1,5 @@
 ---
-img: /images/18836863_10213527516610096_6383893134598463169_o-1024x768.jpg
+img: /images/excerpt/18836863_10213527516610096_6383893134598463169_o-1024x768.jpg
 category: [best-of-facebook,travel]
 title: "Utah:  We're back after 7 weeks"
 date: "2017-06-04"

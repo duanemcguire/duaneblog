@@ -1,5 +1,5 @@
 ---
-img: /images/plainCityBarn.jpg
+img: /images/excerpt/plainCityBarn.jpg
 category: [random-thoughts]
 title: "Barn at Sunrise"
 date: "2009-01-02"

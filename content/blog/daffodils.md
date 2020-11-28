@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20180408_102727-1024x768.jpg
+img: /images/excerpt/IMG_20180408_102727-1024x768.jpg
 category: [random-thoughts,daffodils]
 title: "Daffodils"
 date: "2018-04-08"

@@ -1,5 +1,5 @@
 ---
-img: /images/Pacific_County_Fair_SR2013-178.jpg
+img: /images/excerpt/Pacific_County_Fair_SR2013-178.jpg
 category: [random-thoughts]
 title: "Horseback riding"
 date: "2014-03-16"

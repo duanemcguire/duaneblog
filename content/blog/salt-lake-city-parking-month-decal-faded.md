@@ -1,5 +1,5 @@
 ---
-img: /images/fadedDecal.jpg
+img: /images/excerpt/fadedDecal.jpg
 category: [random-thoughts]
 title: "Salt Lake City Parking - Month Decal Faded"
 date: "2012-07-15"

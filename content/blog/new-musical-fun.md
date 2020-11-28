@@ -1,5 +1,5 @@
 ---
-img: /images/ThatOldQuartetOfMine.jpg
+img: /images/excerpt/ThatOldQuartetOfMine.jpg
 category: [musical]
 title: "New Musical Fun"
 date: "2015-03-13"

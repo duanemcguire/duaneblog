@@ -1,5 +1,5 @@
 ---
-img: /images/Terry-Greene-Photo.jpg
+img: /images/excerpt/Terry-Greene-Photo.jpg
 category: [random-thoughts]
 title: "Electrified Thoughts"
 date: "2018-05-13"

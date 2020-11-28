@@ -1,5 +1,5 @@
 ---
-img: /images/2020-08-08-16.30.42-1024x768.jpg
+img: /images/excerpt/2020-08-08-16.30.42-1024x768.jpg
 category: [garden,projects]
 title: "McGuire-Henkel-Dunbar Railroad"
 date: "2020-08-08"

@@ -1,5 +1,5 @@
 ---
-img: /images/tuningHammer.jpg
+img: /images/excerpt/tuningHammer.jpg
 category: [musical,piano_technology]
 title: "McGuirePiano.com launched!"
 date: "2010-03-26"

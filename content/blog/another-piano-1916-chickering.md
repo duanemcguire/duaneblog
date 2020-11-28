@@ -1,5 +1,5 @@
 ---
-img: /images/chickering1916_640x480.jpg
+img: /images/excerpt/chickering1916_640x480.jpg
 category: [piano_technology]
 title: "Another piano: 1916 Chickering"
 date: "2008-01-19"

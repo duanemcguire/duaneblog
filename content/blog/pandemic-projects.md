@@ -1,5 +1,5 @@
 ---
-img: /images/2020-04-17-17.12.33-1024x768.jpg
+img: /images/excerpt/2020-04-17-17.12.33-1024x768.jpg
 category: [woodshop,projects,bebop]
 title: "Pandemic Projects"
 date: "2020-06-11"

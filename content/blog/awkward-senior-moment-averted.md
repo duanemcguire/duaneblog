@@ -1,5 +1,5 @@
 ---
-img: /images/pool.resized-300x200.jpg
+img: /images/excerpt/pool.resized-300x200.jpg
 category: [health]
 title: "Awkward Senior Moment Averted"
 date: "2018-01-15"

@@ -1,5 +1,5 @@
 ---
-img: /images/bebop-2020-05-31-813x1024.jpg
+img: /images/excerpt/bebop-2020-05-31-813x1024.jpg
 category: [bebop]
 title: "Walk with Bebop - May 31, 2020"
 date: "2020-05-31"

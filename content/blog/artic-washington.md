@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20170919_075804.jpg
+img: /images/excerpt/IMG_20170919_075804.jpg
 category: [travel,family]
 title: "Artic, Washington"
 date: "2017-09-19"

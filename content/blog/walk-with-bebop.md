@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20200215_184325.jpg
+img: /images/excerpt/IMG_20200215_184325.jpg
 category: [health,bebop]
 title: "Walk with Bebop"
 date: "2020-05-30"

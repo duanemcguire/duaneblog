@@ -1,5 +1,5 @@
 ---
-img: /images/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013"
+img: /images/excerpt/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013"
 category: [random-thoughts]
 title: "Where's the worst air in the U.S. today?"
 date: "2013-01-26"

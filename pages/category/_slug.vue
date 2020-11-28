@@ -1,7 +1,7 @@
 <template>
-<div >
+<div>
   <div class="container d-md-flex align-items-stretch mt-3">
-    <div >
+    <div>
       <h1 style="font-size: 1.9em">{{ category.name }}</h1>
       <div id="morecategories">
         <b>All Categories:</b>&nbsp;&nbsp;
@@ -26,7 +26,8 @@ export default {
       .sortBy('name', 'asc')
       .fetch()
     var blogs = await $content('blog')
-      .only(['title', 'img', 'slug', 'body', 'excerpt', 'category'])
+      .only(['title', 'img', 'slug', 'body', 'excerpt', 'category', 'date'])
+      .sortBy('date', 'desc')
       .fetch()
     blogs = blogs
       .filter(blog => blog.hasOwnProperty('category'))
@@ -41,16 +42,16 @@ export default {
   },
   head() {
     return {
-       title: 'Blog Category: ' + this.category.name,
-       meta: [
-         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
-         {
-           hid: 'category-collection',
-           name: 'description',
-           content: 'Collection of piano blog posts categorized as ' + this.category.name
-         }
-       ]
-     }
-   },
+      title: 'Blog Category: ' + this.category.name,
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: 'category-collection',
+          name: 'description',
+          content: 'Collection of piano blog posts categorized as ' + this.category.name
+        }
+      ]
+    }
+  },
 }
 </script>

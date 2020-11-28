@@ -1,5 +1,5 @@
 ---
-img: /images/shopdoor.jpg
+img: /images/excerpt/shopdoor.jpg
 category: [woodshop,projects]
 title: "The shop is closed in!"
 date: "2008-10-28"

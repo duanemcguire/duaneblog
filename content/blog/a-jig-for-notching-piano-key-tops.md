@@ -1,5 +1,5 @@
 ---
-img: /images/4233913046_9b537015c6.jpg
+img: /images/excerpt/4233913046_9b537015c6.jpg
 category: [piano_technology]
 title: "A jig for notching piano key tops"
 date: "2010-01-01"

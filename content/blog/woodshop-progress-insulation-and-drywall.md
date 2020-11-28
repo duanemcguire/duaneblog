@@ -1,5 +1,5 @@
 ---
-img: /images/panelLift.jpg
+img: /images/excerpt/panelLift.jpg
 category: [woodshop,projects,family]
 title: "Woodshop progress: insulation and drywall"
 date: "2009-01-02"

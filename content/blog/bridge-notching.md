@@ -1,5 +1,5 @@
 ---
-img: /images/bridgenotching.jpg
+img: /images/excerpt/bridgenotching.jpg
 category: [piano_technology]
 title: "Bridge notching"
 date: "2007-09-26"

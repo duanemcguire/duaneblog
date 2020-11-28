@@ -1,5 +1,5 @@
 ---
-img: /images/18813380_10213502291179476_3505234029094872839_n.jpg
+img: /images/excerpt/18813380_10213502291179476_3505234029094872839_n.jpg
 category: [best-of-facebook,travel]
 title: "Palo Duro Canyon"
 date: "2017-06-02"

@@ -1,5 +1,5 @@
 ---
-img: /images/4060949990_05951b48c7.jpg
+img: /images/excerpt/4060949990_05951b48c7.jpg
 category: [woodshop,projects,piano_technology]
 title: "Adjustable height workbench / assembly table"
 date: "2009-10-31"

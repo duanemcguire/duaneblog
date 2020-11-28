@@ -1,5 +1,5 @@
 ---
-img: /images/0919-9999_dc_wireless-300x300.jpg
+img: /images/excerpt/0919-9999_dc_wireless-300x300.jpg
 category: [projects,woodshop]
 title: "Smoke Detectors for the Shop"
 date: "2017-11-28"

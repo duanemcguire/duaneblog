@@ -1,5 +1,5 @@
 ---
-img: /images/francesSpring1.jpg
+img: /images/excerpt/francesSpring1.jpg
 category: [historic-technology]
 title: "There’s a story here"
 date: "2004-02-26"

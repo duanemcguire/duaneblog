@@ -1,5 +1,5 @@
 ---
-img: /images/Screenshot-from-2019-05-03-09-11-23.png
+img: /images/excerpt/Screenshot-from-2019-05-03-09-11-23.png
 category: [musical,random-thoughts]
 title: "The Ballad of Pearly Sue"
 date: "2019-05-03"

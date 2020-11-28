@@ -1,5 +1,5 @@
 ---
-img: /images/xaAvatar.png
+img: /images/excerpt/xaAvatar.png
 category: [random-thoughts]
 title: "Xfinity Connectivity"
 date: "2020-08-30"

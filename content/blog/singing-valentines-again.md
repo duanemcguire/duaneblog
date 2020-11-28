@@ -1,5 +1,5 @@
 ---
-img: /images/Barbershop640x480.jpg
+img: /images/excerpt/Barbershop640x480.jpg
 category: [musical]
 title: "Singing Valentines in Utah County"
 date: "2009-02-03"

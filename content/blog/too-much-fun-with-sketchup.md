@@ -1,5 +1,5 @@
 ---
-img: /images/Outfeed-table3.jpg
+img: /images/excerpt/Outfeed-table3.jpg
 category: [woodshop,projects]
 title: "Too Much fun with Sketchup"
 date: "2014-04-14"

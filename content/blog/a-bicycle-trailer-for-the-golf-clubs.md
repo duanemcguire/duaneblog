@@ -1,5 +1,5 @@
 ---
-img: /images/2397840090_4ed8dce7a0.jpg
+img: /images/excerpt/2397840090_4ed8dce7a0.jpg
 category: [health,cycling]
 title: "A Bicycle Trailer for the Golf Clubs"
 date: "2008-04-08"

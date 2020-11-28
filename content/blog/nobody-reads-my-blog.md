@@ -1,5 +1,5 @@
 ---
-img: /images/483bgBlack.jpg
+img: /images/excerpt/483bgBlack.jpg
 category: [random-thoughts]
 title: "Nobody reads my blog"
 date: "2006-12-15"

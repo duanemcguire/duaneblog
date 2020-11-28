@@ -1,5 +1,5 @@
 ---
-img: /images/2019-11-15-19.40.33.jpg
+img: /images/excerpt/2019-11-15-19.40.33.jpg
 category: [projects,woodshop,random-thoughts]
 title: "Quick Change Bit holders"
 date: "2019-11-16"

@@ -1,5 +1,5 @@
 ---
-img: /images/Frank_and_Elsie_Henkel.jpg
+img: /images/excerpt/Frank_and_Elsie_Henkel.jpg
 category: [family]
 title: "Mom's Early Life"
 date: "2010-11-28"

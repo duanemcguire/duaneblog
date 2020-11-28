@@ -1,5 +1,5 @@
 ---
-img: /images/Outfeed-table-annotated.jpg
+img: /images/excerpt/Outfeed-table-annotated.jpg
 category: [woodshop,projects]
 title: "Outfeed table for tablesaw"
 date: "2014-04-09"

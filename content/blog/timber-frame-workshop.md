@@ -1,5 +1,5 @@
 ---
-img: /images/windrivershop.jpg
+img: /images/excerpt/windrivershop.jpg
 category: [woodshop,historic-technology]
 title: "Timber Frame Workshop"
 date: "2004-11-07"

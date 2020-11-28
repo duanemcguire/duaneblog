@@ -1,5 +1,5 @@
 ---
-img: /images/3843996849_d7b4efd8b8.jpg
+img: /images/excerpt/3843996849_d7b4efd8b8.jpg
 category: [random-thoughts]
 title: "Woodturning 101 - homework"
 date: "2009-08-22"

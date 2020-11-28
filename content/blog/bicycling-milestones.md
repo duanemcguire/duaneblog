@@ -2,6 +2,7 @@
 category: [cycling,health]
 title: "Bicycling Milestones"
 date: "2007-05-20"
+img: "/images/excerpt/slc-century.jpg"
 ---
 
 During the last weekend of April, I performed a minor miracle for a body, who from time to time, has accepted middle age as a time of athletic regression. Not anymore. I rode from Pleasant View to Pleasant Grove (98 miles) then got on the bicycle the next morning and rode back! That was the culmination of training since last November, and proof positive that I could participate successfully in the [Cycle Salt Lake Century](http://www.quality-advantage.biz/CycleSaltLakeCentury/). Now I say, I can look at middle age and spit in it's face!

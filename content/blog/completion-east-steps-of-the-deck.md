@@ -1,5 +1,5 @@
 ---
-img: /images/104184553_10222766446456945_156098434315222990_o-1024x768.jpg
+img: /images/excerpt/deck-steps.jpg
 category: [garden,projects,best-of-facebook,woodshop]
 title: "Completion: East Steps of the Deck"
 date: "2020-06-11"

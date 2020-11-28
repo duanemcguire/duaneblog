@@ -1,5 +1,5 @@
 ---
-img: /images/feature1.png
+img: /images/excerpt/feature1.png
 category: [health]
 title: "Drivemode - A lifesaving app!"
 date: "2016-05-01"

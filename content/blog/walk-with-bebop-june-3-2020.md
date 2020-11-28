@@ -1,5 +1,5 @@
 ---
-img: /images/best-yawn-1024x768.jpg
+img: /images/excerpt/best-yawn-1024x768.jpg
 category: [bebop]
 title: "Walk with Bebop - June 3, 2020"
 date: "2020-06-04"

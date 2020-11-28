@@ -1,5 +1,5 @@
 ---
-img: /images/20151225_184524.jpg
+img: /images/excerpt/20151225_184524.jpg
 category: [projects,woodshop]
 title: "Woodwork Outside of a Piano!"
 date: "2016-02-29"

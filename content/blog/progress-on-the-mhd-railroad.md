@@ -1,5 +1,5 @@
 ---
-img: /images/2020-09-19-14.35.26-1024x768.jpg
+img: /images/excerpt/2020-09-19-14.35.26-1024x768.jpg
 category: [projects,historic-technology]
 title: "Progress on the MH&D Railroad"
 date: "2020-09-19"

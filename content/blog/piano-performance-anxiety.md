@@ -1,5 +1,5 @@
 ---
-img: /images/stieffChristmas2005t.jpg
+img: /images/excerpt/stieffChristmas2005t.jpg
 category: [musical]
 title: "Piano Performance Anxiety"
 date: "2006-02-09"

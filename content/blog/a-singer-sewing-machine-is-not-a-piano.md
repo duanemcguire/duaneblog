@@ -1,5 +1,5 @@
 ---
-img: /images/2020-07-19-08.30.28-1024x768.jpg
+img: /images/excerpt/2020-07-19-08.30.28-1024x768.jpg
 category: [projects,woodshop]
 title: "A Singer Sewing Machine is not a piano"
 date: "2020-09-18"

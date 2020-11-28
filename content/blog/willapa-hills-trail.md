@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_20170921_085327.jpg
+img: /images/excerpt/IMG_20170921_085327.jpg
 category: [travel,health,family,cycling]
 title: "Willapa Hills Trail"
 date: "2017-09-22"

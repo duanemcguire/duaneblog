@@ -1,5 +1,5 @@
 ---
-img: /images/2018-08-21-05.48.36-1024x768.jpg
+img: /images/excerpt/2018-08-21-05.48.36-1024x768.jpg
 category: [projects,woodshop]
 title: "A piano shop workbench"
 date: "2018-09-01"

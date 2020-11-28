@@ -2,7 +2,7 @@
 category: [musical,piano-performance]
 title: "Musical Desire Meets Taskmaster"
 date: "2008-09-19"
-img: /images/Dobbins-Jazz-Piano-Harmony.png
+img: /images/excerpt/Dobbins-Jazz-Piano-Harmony.png
 ---
 
 I play the piano. And have played for 50 years on again and off again. The last couple of years have been on again, and it has been a joy. But for someone who likes the jazz medium, its too bad that I'm tied to notes on the page. I haven't developed skill at improvisation.

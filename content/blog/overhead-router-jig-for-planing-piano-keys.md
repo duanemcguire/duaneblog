@@ -1,5 +1,5 @@
 ---
-img: /images/4148716137_ca87850596.jpg
+img: /images/excerpt/4148716137_ca87850596.jpg
 category: [piano_technology]
 title: "Overhead Router Jig for Planing Piano Keys"
 date: "2009-12-01"

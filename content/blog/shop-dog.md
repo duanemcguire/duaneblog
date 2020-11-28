@@ -1,5 +1,5 @@
 ---
-img: /images/IMG_0112-1024x768.jpg
+img: /images/excerpt/IMG_0112-1024x768.jpg
 category: [bebop,family]
 title: "Shop Dog"
 date: "2020-09-04"

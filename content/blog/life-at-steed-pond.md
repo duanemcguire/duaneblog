@@ -1,5 +1,5 @@
 ---
-img: /images/2016-05-11-06.11.01.jpg
+img: /images/excerpt/2016-05-11-06.11.01.jpg
 category: [health,random-thoughts]
 title: "Life at Steed Pond"
 date: "2016-05-17"

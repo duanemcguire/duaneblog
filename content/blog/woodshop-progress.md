@@ -1,5 +1,5 @@
 ---
-img: /images/shop_stucco_complete.jpg
+img: /images/excerpt/shop_stucco_complete.jpg
 category: [woodshop,projects]
 title: "Woodshop Progress"
 date: "2008-10-04"

@@ -1,5 +1,5 @@
 ---
-img: /images/antelopeRide.jpg
+img: /images/excerpt/antelopeRide.jpg
 category: [cycling]
 title: "Antelope Island Ride"
 date: "2009-09-18"

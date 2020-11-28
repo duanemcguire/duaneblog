@@ -1,5 +1,5 @@
 ---
-img: /images/centraliaChristmas.jpg
+img: /images/excerpt/centraliaChristmas.jpg
 category: [family]
 title: "Merry Christmas!"
 date: "2010-12-25"

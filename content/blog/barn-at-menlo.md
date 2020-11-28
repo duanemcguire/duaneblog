@@ -1,5 +1,5 @@
 ---
-img: /images/menloBarn1.jpg
+img: /images/excerpt/menloBarn1.jpg
 category: [random-thoughts]
 title: "Barn at Menlo"
 date: "2004-09-04"

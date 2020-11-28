@@ -1,6 +1,6 @@
 ---
-img: /images/5ce863ee76f42.image-crop.jpg
-category: [uncategorized]
+img: /images/excerpt/5ce863ee76f42.image-crop.jpg
+category: [random-thoughts,family]
 title: "Giesy's Crossing"
 date: "2020-09-19"
 ---

@@ -1,5 +1,5 @@
 ---
-img: /images/Bernice_Frank_and_LaRue_Henkel_1923.jpg
+img: /images/excerpt/Bernice_Frank_and_LaRue_Henkel_1923.jpg
 category: [family]
 title: "LaRue McGuire: Oral History Part 2"
 date: "2016-10-28"

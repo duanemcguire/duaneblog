@@ -1,5 +1,5 @@
 ---
-img: /images/shop_framing_complete.jpg
+img: /images/excerpt/shop_framing_complete.jpg
 category: [woodshop,projects]
 title: "The workshop is a reality"
 date: "2008-08-28"
