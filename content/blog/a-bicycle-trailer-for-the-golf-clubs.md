@@ -17,4 +17,4 @@ I ordered the trailer from Nashbar a couple weeks ago. It arrived on Friday, and
 
 On Sunday I rode to Swan Lakes Golf Course, played 9, then continued on to Home Depot for some shopping. Today (Monday), I rode to work (5.5 miles). After work I rode to Swan Lakes (4 miles). I practiced at the driving range, and then rode home (6 miles).
 
-Since it's been a long winter without much bicycling, I can feel it. It was a workout.\[fbcomments\]
+Since it's been a long winter without much bicycling, I can feel it. It was a workout.

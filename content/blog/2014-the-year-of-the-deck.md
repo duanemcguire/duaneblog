@@ -13,4 +13,4 @@ We're gearing up for deck building this summer.   Sketchup has been invaluable
 - Decking is to be hardwood for durability and beauty
 - Hot tub?  May be an item for 2015.
 
-[![east july 21 3 pm](/images/east-july-21-3-pm.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2014/04/east-july-21-3-pm.jpg)\[fbcomments\]
+[![east july 21 3 pm](/images/east-july-21-3-pm.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2014/04/east-july-21-3-pm.jpg)

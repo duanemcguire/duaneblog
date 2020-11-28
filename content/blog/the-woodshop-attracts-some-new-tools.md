@@ -24,4 +24,4 @@ While I was touring [Shane's shop](http://www.shanewhitlock.com/photo/v/misc/sho
 
 As pictured it has a 120 V motor. As purchased, it has the original 230 V Rockwell motor.
 
-\[fbcomments\]
+

@@ -17,4 +17,4 @@ I was surprised at a number of things at this event -- my first organized centur
 - The ride had 33, 66, and 100 mile options. So the numbers of riders was vastly larger in the first half of the ride. So was the variety in bicycles. I was a surprised to see (and hear .... squeak squeak) bicycles that had poor maintenance.
 - The support for this ride was fantastic. Great rest stops and good food! Where ever we were on the ride, the support staff of Bingham Cycle shop was there to assist riders with mechanical and fatigue problems. Troy and I stopped twice along the route (other than at rest stops) Both times, a Bingham's Cycle shop guy came by to ask if we needed help!
 
-What a day!\[fbcomments\]
+What a day!

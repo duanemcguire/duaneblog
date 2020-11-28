@@ -13,4 +13,4 @@ If you are a _man_ who would like us to sing to your girl friend, wife, or other
   
 We deliver 2 love songs and a long stemmed rose as your Valentine for a fee of just $45.
 
-More about the quartet is here: [SoundAccord.com](http://www.soundaccord.com)\[fbcomments\]
+More about the quartet is here: [SoundAccord.com](http://www.soundaccord.com)

@@ -11,4 +11,4 @@ Tuesday a drive spur arrived in the mail. More accessories are on the way. Tuesd
 
 Tonight I spent a few minutes sharpening the gouge and skew and I transformed a 4x4 into a very satisfying enigma. The lathe runs smoothly, and in my ignorance I don't know what else I'd ask for! (Unless one of you wants to come over and help me design and build an effective dust collection port for the lathe)
 
-[![First experience with the lathe](/images/3843996849_d7b4efd8b8.jpg)](http://www.flickr.com/photos/duanemcguire/3843996849/ "First experience with the lathe by Duane McGuire, on Flickr")\[fbcomments\]
+[![First experience with the lathe](/images/3843996849_d7b4efd8b8.jpg)](http://www.flickr.com/photos/duanemcguire/3843996849/ "First experience with the lathe by Duane McGuire, on Flickr")

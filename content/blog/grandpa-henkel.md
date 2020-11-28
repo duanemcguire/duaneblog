@@ -14,4 +14,4 @@ As I grew up, I came to realize that other kids had grandpas who could play base
 
 I'm glad that I was able to know him for those ten years in which our lives crossed.
 
-By the way, his Elgin pocket watch still works fine, though usually it stays in my dresser drawer. And I don't own a wrist watch either. I just use the clock on my cell phone, it's always in my pocket!\[fbcomments\]
+By the way, his Elgin pocket watch still works fine, though usually it stays in my dresser drawer. And I don't own a wrist watch either. I just use the clock on my cell phone, it's always in my pocket!

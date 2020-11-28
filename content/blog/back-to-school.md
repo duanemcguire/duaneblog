@@ -17,4 +17,4 @@ My current direction is to earn a Bachelors in Computer Science over the next fe
 My current technical class is Discrete Mathematics. It is taught in an enjoyable manner. All the projects require programming examples written in C. This is challenging on two levels: First, just getting the academic brain cells working again. Second, I've never before written any C! So it is a fun challenge.  
   
 It's great to engage the brain along new paths -- even if the path is somewhat familiar.  
-\[fbcomments\]
+

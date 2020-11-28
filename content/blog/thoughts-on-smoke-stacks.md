@@ -17,4 +17,4 @@ Sometimes I think I was born 70 years too late!  But I did come along at the ba
 
 Later, when I was in high school, I washed the sidewalks of soot and sawdust in front of The Dennis Company every Saturday morning. One of the old timers in town came by one day and asked if I knew what I was cleaning up! "Sure," I said, "dirt".
 
-"No," he said, "that's Pay Dirt!". I learned something about industrial era economics and attitudes from the old guy. He knew, even though I did not, that all that soot and sawdust meant paychecks for everyone in town. \[fbcomments\]
+"No," he said, "that's Pay Dirt!". I learned something about industrial era economics and attitudes from the old guy. He knew, even though I did not, that all that soot and sawdust meant paychecks for everyone in town. 

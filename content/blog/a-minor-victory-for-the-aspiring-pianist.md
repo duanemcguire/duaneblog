@@ -11,4 +11,4 @@ I have a lot to learn about memorization, and I still find it somewhat frighteni
 
 I wish I could get into another musicians head, and see how he or she thinks!
 
-Despite it all, my memorized repertoire is growing. I need to tackle the top bit of page five with rigor, and see if I can speed the process along. Twilight world is such a beautiful tune, I'm not bored with it, but it would be nice to grow the repertoire faster!\[fbcomments\]
+Despite it all, my memorized repertoire is growing. I need to tackle the top bit of page five with rigor, and see if I can speed the process along. Twilight world is such a beautiful tune, I'm not bored with it, but it would be nice to grow the repertoire faster!

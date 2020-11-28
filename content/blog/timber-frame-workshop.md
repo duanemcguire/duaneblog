@@ -26,4 +26,4 @@ Yesterday I attended the Log and Timber Framing Expo in Sandy, UT. I came away w
 
 Chuck Brainerd and Dale Covington (Barn Owl) and Alan Bernholtz (Wind River) generously shared their thoughts and enthusiasms for the art of the timberframe. Chuck has built an impressive home for himself in Utah from a barn he salvaged in the midwest. Alan has completed many masterful homes, and his new [workshop](http://www.windriver-timberframes.com/shop.html) is a beauty in itself. I can't expect to build anything of that scale, but it is an inspiration.
 
-\[fbcomments\]
+

@@ -14,4 +14,4 @@ She said, "I thought you'd like to know. I stopped at China Lily for dinner toni
   
 "Oh I just know it was ... You're the one with the golf addiction."  
   
-_If you are married to someone for 30 years, a sense of humor could come in handy._ \[fbcomments\]
+_If you are married to someone for 30 years, a sense of humor could come in handy._ 

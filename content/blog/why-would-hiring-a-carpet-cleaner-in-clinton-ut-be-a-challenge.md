@@ -12,4 +12,4 @@ As you might assume, I'm writing this just because I believe folks who know how 
 
 If you are in Davis County Utah ( Clinton, Clearfield, Syracuse, Layton, etc) I whole-heartedly recommend this company for your carpet cleaning needs!
 
-Simply Clean Carpet & Upholstery Care Inc. Clearfield UT 84015 801-546-3444\[fbcomments\]
+Simply Clean Carpet & Upholstery Care Inc. Clearfield UT 84015 801-546-3444

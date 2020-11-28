@@ -10,4 +10,4 @@ What pair will you draw? The answer can determine how much you enjoy the game. S
   
 Number 6 was a challenging hole. It had no fairway. Just a tee box, a big pond, and a green. OK to be fair, the green had a 10 yard finge, but I didn't notice. I only noticed that there was a lot of water, and the tee shot was 169 yards. Norm noticed too. He said, "This is tough. I don't have a club that does 169." Tough? Carma offered no compassion. She said, "Norm, why don't you use the club that does 170?"  
   
-I guess that's what 40 years of marriage will get you. Good counsel from your wife.\[fbcomments\]
+I guess that's what 40 years of marriage will get you. Good counsel from your wife.

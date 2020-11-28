@@ -13,4 +13,4 @@ Here's the results of my efforts: [![Garden Gate](/images/8753013793_333e818c47.
 
  
 
- \[fbcomments\]
+ 

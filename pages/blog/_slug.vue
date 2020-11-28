@@ -6,7 +6,14 @@
       <!--<prev-next :prev="prev" :next="next" />
       <BR />-->
       <div>{{blog.date}}</div>
-      <div>Category: {{catNames}}</div><BR />
+      <div> Category:
+        <ul class="comma-list">
+          <li v-for="cat of catArray">
+            <NuxtLink :to="'/category/' + cat[0]">{{ cat[1] }}</NuxtLink>
+          </li>
+        </ul>
+      </div>
+      <BR />
       <nuxt-content :document="blog" />
       <div v-if="mediaPresent">
         <lb :media="blog.media" />
@@ -18,7 +25,7 @@
         </p>
       </div>
     </div>
-    <sidebar />
+    <!--<sidebar />-->
   </div>
 </div>
 </template>
@@ -35,12 +42,14 @@ export default {
     // Category extract
     var catName = ""
     var catNames = []
+    var catArray = []
     if (blog.hasOwnProperty('category')) {
       blog.category.forEach((cat) => {
         catName = categories
           .filter(item => item.slug === cat)
           .map(item => item.name)[0]
         catNames.push(catName)
+        catArray.push([cat, catName])
       })
     }
     catNames = catNames.toString().replace(",", ", ")
@@ -63,6 +72,7 @@ export default {
       prev,
       next,
       catNames,
+      catArray,
       categories
     }
   },
@@ -82,6 +92,25 @@ export default {
 }
 </script>
 <style scoped>
+.comma-list {
+  display: inline;
+  list-style: none;
+  padding: 0px;
+}
+
+.comma-list li {
+  display: inline;
+}
+
+.comma-list li::after {
+  content: ", ";
+}
+
+.comma-list li:last-child::after {
+  content: "";
+}
+
+
 .tcloud a {
   line-height: 0.8;
   font-size: 0.7em;

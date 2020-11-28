@@ -15,4 +15,4 @@ Here's the baseboard in process in the shop today:
 
 [![2016-02-29 16.22.27](/images/2016-02-29-16.22.27.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2016/02/2016-02-29-16.22.27.jpg)
 
-It's put together with poplar and walnut.   With exposure to light, the poplar will darken.   I'm looking forward to seeing it with some polyurethane finish. \[fbcomments\]
+It's put together with poplar and walnut.   With exposure to light, the poplar will darken.   I'm looking forward to seeing it with some polyurethane finish. 

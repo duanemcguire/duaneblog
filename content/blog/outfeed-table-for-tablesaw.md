@@ -12,4 +12,4 @@ Here's the outfeed table I spent time designing last night. The over-hang on the
 - router table inset
 - storage for router and tablesaw accessories
 
-[![Outfeed table annotated](/images/Outfeed-table-annotated.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2014/04/Outfeed-table-annotated.jpg)\[fbcomments\]
+[![Outfeed table annotated](/images/Outfeed-table-annotated.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2014/04/Outfeed-table-annotated.jpg)

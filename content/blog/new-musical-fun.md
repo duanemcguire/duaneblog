@@ -17,4 +17,4 @@ Last night was my first performance with them. We shared a venue at Northridge H
 
 Throw-back Thursday? The photo below was from a "few years ago".
 
-[![ThatOldQuartetOfMine](/images/ThatOldQuartetOfMine.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2015/03/ThatOldQuartetOfMine.jpg)\[fbcomments\]
+[![ThatOldQuartetOfMine](/images/ThatOldQuartetOfMine.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2015/03/ThatOldQuartetOfMine.jpg)

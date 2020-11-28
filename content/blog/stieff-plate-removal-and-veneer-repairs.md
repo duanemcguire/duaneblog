@@ -26,4 +26,4 @@ The inside veneer was separated at the top. It was re-glued using Titebond glue 
 
 [More Photos on Flickr.com](http://www.flickr.com/photos/duanemcguire/collections/72157601235740695/)
 
-\[fbcomments\]
+

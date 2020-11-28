@@ -29,4 +29,4 @@ This weekend I cleaned up my 1961 Delta unisaw, and gave it a good paint job. I'
 
 **After**
 
-\[fbcomments\]
+

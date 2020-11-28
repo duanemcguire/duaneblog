@@ -17,4 +17,4 @@ Lighting for the main shop will be 15 8' 2-lamp T12 fixtures that I picked up us
   
 ![Electrical panel](/images/electrical_panel_2.jpg)  
   
-![Door and panel](/images/door_and_panel.jpg)\[fbcomments\]
+![Door and panel](/images/door_and_panel.jpg)

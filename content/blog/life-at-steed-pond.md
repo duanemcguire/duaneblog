@@ -9,4 +9,4 @@ My morning walk often passes by [Steed Pond](http://www.standard.net/Environment
 
 I was pleased to see the pelicans, but had to wonder what they were finding to eat. A bit of Google research reveals that the Utah Division of Wildlife Resources annually stocks the pond with rainbow trout. It turns out they are a tasty treat for pelicans. And I don't think they are respecting the limit of 2 per day!
 
-[DWR reports](https://dwrapps.utah.gov/fishstocking/Fish) that this year they've planted 2807 rainbow trout in Steed Pond. These trout have had an average length of 11 inches. Examining the bill of the pelicans, I'd say the trout are a right-sized snack. It's fun to watch them fishing. \[fbcomments\]
+[DWR reports](https://dwrapps.utah.gov/fishstocking/Fish) that this year they've planted 2807 rainbow trout in Steed Pond. These trout have had an average length of 11 inches. Examining the bill of the pelicans, I'd say the trout are a right-sized snack. It's fun to watch them fishing. 

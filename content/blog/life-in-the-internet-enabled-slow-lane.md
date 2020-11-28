@@ -43,4 +43,4 @@ When I explained that I sold that dryer cord for eight dollars, she gave me her 
 
  
 
- \[fbcomments\]
+ 

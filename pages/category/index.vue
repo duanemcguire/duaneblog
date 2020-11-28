@@ -1,7 +1,7 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch mt-3">
-    <div >
+    <div>
       <h1 style="font-size: 1.9em">Categories</h1>
       <div>
         <ul>
@@ -13,7 +13,7 @@
         </ul>
       </div>
     </div>
-    <sidebar />
+    <!--<sidebar />-->
   </div>
 </div>
 </template>

@@ -12,4 +12,4 @@ I copied and pasted from the cached version that Google had, then updated the po
 
 Here's the google search I used to find the item: site:blog.duanemcguire.com sketchup
 
-Google seems to know just about everything.\[fbcomments\]
+Google seems to know just about everything.

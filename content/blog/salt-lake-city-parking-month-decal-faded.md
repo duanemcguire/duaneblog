@@ -31,4 +31,4 @@ Thank you. \-- Duane McGuire [801-830-5858](tel:801-830-5858)
 
 1077 N 1285 W Clinton, UT 84015
 
- \[fbcomments\]
+ 

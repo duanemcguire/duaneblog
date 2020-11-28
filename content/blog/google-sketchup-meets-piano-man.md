@@ -27,4 +27,4 @@ It was interesting to see that the modeling tool, in fact, improved the product.
 
 If you install [Google Sketchup](http://sketchup.google.com/), you may explore the [model itself with this download.](http://sketchup.google.com/3dwarehouse/details?mid=1008ba4bcf31cae967e81bd5a7d7d50#)
 
-\[fbcomments\]
+

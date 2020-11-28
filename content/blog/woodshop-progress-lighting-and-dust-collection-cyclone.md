@@ -19,4 +19,4 @@ Here's today's photos:
   
 ![](http://farm4.static.flickr.com/3497/3299104572_f1f6155715.jpg?v=0)  
   
-![](http://farm4.static.flickr.com/3484/3299104712_e2e7e42729.jpg?v=0)\[fbcomments\]
+![](http://farm4.static.flickr.com/3484/3299104712_e2e7e42729.jpg?v=0)

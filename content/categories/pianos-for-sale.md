@@ -1,3 +1,0 @@
----
-name: Pianos For Sale
----

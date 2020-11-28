@@ -12,4 +12,4 @@ Last night at the Salt Lake City chapter meeting, I took the first step to certi
     I'll be practicing the skills I need for the first of these as I complete the rebuild of the Stieff Grand for Syracuse Arts Academy. The tuning exam, for me, is more intimidating. I hope to have enough aural tuning skill to take and pass the tuning exam next summer.
     
     On the road!
-\[fbcomments\]
+

@@ -12,4 +12,4 @@ Surprisingly, NO.
 
 It looked beautiful as it was sailing toward its target.  I saw it roll up on the green but then it rolled out of view. As I walked to the green, I thought, "well there must be a little ridge there at the front".  As I got closer I still saw no ball on the green.  I was silent.   I walked up to the flag.  There was my Callaway resting at the back of the hole.Â  A beautiful sight honored in silence.
 
-[Eagle Lake Golf Course](http://eaglelake-golf.com/) #3 160 yards\[fbcomments\]
+[Eagle Lake Golf Course](http://eaglelake-golf.com/) #3 160 yards

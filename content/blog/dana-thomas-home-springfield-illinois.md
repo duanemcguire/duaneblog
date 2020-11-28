@@ -1,5 +1,5 @@
 ---
-category: [travel,best-of-facebook]
+category: [travel,best-of-facebook,family]
 title: "Dana-Thomas home - Springfield, Illinois"
 date: "2017-05-26"
 img: "/images/18671157_10213444571216513_4316588144844604580_n.jpg"

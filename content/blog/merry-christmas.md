@@ -9,4 +9,4 @@ It's 6:30 am and all is well.    I always was the first one up on Christmas m
 
 Now I'm just always the first one up!
 
-![](/images/centraliaChristmas.jpg)\[fbcomments\]
+![](/images/centraliaChristmas.jpg)

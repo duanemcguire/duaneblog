@@ -24,4 +24,4 @@ I had once dreamed of building a timber-framed woodshop, but time and locale pre
 
 [![](/images/shopSection.jpg "Section: Click for PDF")](/images/shop/shop section.pdf)
 
-[![](/images/foundationDetail.jpg "Foundation Detail: Click for PDF")](/images/shop/shop foundation detail.pdf)\[fbcomments\]
+[![](/images/foundationDetail.jpg "Foundation Detail: Click for PDF")](/images/shop/shop foundation detail.pdf)

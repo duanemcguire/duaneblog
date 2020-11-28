@@ -1,8 +1,7 @@
 <template>
 <div class="topnav pt-3" id="myTopnav">
-  <a href="/">Home</a>
-  <a href="/blog">Blog</a>
-  </ul>
+  <a href="/">Blog</a>
+  <a href="/search.html">Search</a>
 </div>
 </template>
 <style>

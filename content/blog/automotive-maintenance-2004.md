@@ -22,4 +22,4 @@ Dick's voice fairly glowed with warmth as he responded, "Well then we should cer
   
 Tonight the headlights work, and the dealership has another $550 on its books. If it had been the '48 Plymouth the problem would have been cured in the parking lot Tuesday afternoon for the price of a 5 cent fuse.  
   
-\[fbcomments\]
+

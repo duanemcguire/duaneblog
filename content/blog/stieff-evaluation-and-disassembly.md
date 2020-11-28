@@ -23,4 +23,4 @@ There are also some really good things about the piano that I appreciate now tha
 
 [![](/images/disassembly.jpg)](http://www.flickr.com/photos/duanemcguire/sets/72157600653743304/show/ "More pictures on flickr.com")
 
-[](http://www.flickr.com/photos/duanemcguire/sets/72157600653743304/show/ "More pictures on flickr.com")[More pictures on Flickr.com](http://www.flickr.com/photos/duanemcguire/sets/72157600653743304/show/ "More pictures on flickr.com") \[fbcomments\]
+[](http://www.flickr.com/photos/duanemcguire/sets/72157600653743304/show/ "More pictures on flickr.com")[More pictures on Flickr.com](http://www.flickr.com/photos/duanemcguire/sets/72157600653743304/show/ "More pictures on flickr.com") 

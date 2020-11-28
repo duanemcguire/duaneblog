@@ -1,6 +1,6 @@
 ---
 img: /images/full.jpg
-category: [woodshop,projects]
+category: [woodshop,projects,family]
 title: "A mobile base for the Rikon Band Saw"
 date: "2010-12-25"
 ---
@@ -9,4 +9,4 @@ The shop really isn't large enough for the new band saw to have a permanent loca
 
 When I posted about the new saw, Ryan commented, "I thought you ran an all Delta shop!" In deference to Ryan's comment, I painted the rear base in "Delta grey".
 
-![](/images/full.jpg)![](/images/base.jpg)![](/images/baseUnderSide.jpg)![](/images/downWheel.jpg)![](/images/upWheel.jpg)[![](/images/videoIcon.jpg)](/images/rikonBandSaw/video-2010-12-24-21-13-01.avi) \[fbcomments\]
+![](/images/full.jpg)![](/images/base.jpg)![](/images/baseUnderSide.jpg)![](/images/downWheel.jpg)![](/images/upWheel.jpg)[![](/images/videoIcon.jpg)](/images/rikonBandSaw/video-2010-12-24-21-13-01.avi)

@@ -8,4 +8,4 @@ I bought the stroke sander several months ago from an out-of-business cabinet sh
 
 <iframe width="420" height="345" src="http://www.youtube.com/embed/aOU4A78U8ZY" frameborder="0" allowfullscreen></iframe>
 
-\[fbcomments\]
+

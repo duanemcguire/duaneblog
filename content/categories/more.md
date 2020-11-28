@@ -1,3 +1,0 @@
----
-name: _ Et Cetera
----

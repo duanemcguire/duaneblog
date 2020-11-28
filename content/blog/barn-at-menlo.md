@@ -21,4 +21,4 @@ I was then engaged in an hour coversation with the owner of this fine barn, Mike
   
 I've reflected often on the captivating effect this structure had on me, as well as the enthusiasm for the project that Mike expressed. In the coming years, we'll see the effects of this sighting on my own property. More to come!  
   
-\[fbcomments\]
+

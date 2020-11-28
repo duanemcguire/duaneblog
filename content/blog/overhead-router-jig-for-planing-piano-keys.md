@@ -15,4 +15,4 @@ This order of operation will provide for proper rotation orientation of the cutt
 
 The objectives of accuracy and speed are met. This set of 52 keys was planed in 45 minutes.
 
-[![More photos at Flickr](/images/4148716039_e0f15f0837.jpg)](http://www.flickr.com/photos/duanemcguire/sets/72157622759095507/ "More photos at Flickr")\[fbcomments\]
+[![More photos at Flickr](/images/4148716039_e0f15f0837.jpg)](http://www.flickr.com/photos/duanemcguire/sets/72157622759095507/ "More photos at Flickr")

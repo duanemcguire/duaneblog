@@ -15,4 +15,4 @@ Hallelujah! Praise the Lord! The tenor sax is coming! It might be forty years la
 **Sax plus tax**  
 Since I was not going to be near the Sportsman Pawnshop for a week, I asked Terri to pick it up for me, and gave her $220 (sax plus tax) for the purchase. Once again it is affirmed. I married the right woman. I should never buy in a pawnshop without her aid. Her sweet voice on the phone last night said, "Guess what I did? You'll be impressed!" Yes, I am impressed. Just try to wipe the smile from my face. She bought that sax for $150. And so it goes. A minor ambition of the ages is coming to pass. I'm a sax player ... almost.  
   
-\[fbcomments\]
+

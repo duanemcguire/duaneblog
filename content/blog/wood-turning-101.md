@@ -15,4 +15,4 @@ True to my word I did not buy a lathe until I played with Jim's Rikon mini-lathe
 
 [![Rockwell 46-450 Lathe](/images/3824731181_8b5224bc31.jpg)](http://www.flickr.com/photos/duanemcguire/3824731181/ "Rockwell 46-450 Lathe by Duane McGuire, on Flickr")  
 
-[![Rockwell 46-450 Lathe](/images/3824731925_0d2e124d0b.jpg)](http://www.flickr.com/photos/duanemcguire/3824731925/ "Rockwell 46-450 Lathe by Duane McGuire, on Flickr")\[fbcomments\]
+[![Rockwell 46-450 Lathe](/images/3824731925_0d2e124d0b.jpg)](http://www.flickr.com/photos/duanemcguire/3824731925/ "Rockwell 46-450 Lathe by Duane McGuire, on Flickr")

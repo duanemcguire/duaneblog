@@ -17,4 +17,4 @@ It was really none to soon. Most of the last two weeks have been "Red" pollution
 
 A slideshow of the shop is here: [Slide show on Flickr](http://www.flickr.com/photos/duanemcguire/sets/72157622963614051/show/)
 
-If you mouse over the show, you will find a "STOP" button in the lower left, which will allow you to progress at your own rate. If you click on the center of the photo a description will be displayed.\[fbcomments\]
+If you mouse over the show, you will find a "STOP" button in the lower left, which will allow you to progress at your own rate. If you click on the center of the photo a description will be displayed.

@@ -11,4 +11,4 @@ Sketchup really helps! [![Outfeed table3](/images/Outfeed-table3.jpg)](http://bl
 
 [![Outfeed table4](/images/Outfeed-table4.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2014/04/Outfeed-table4.jpg)
 
- \[fbcomments\]
+ 

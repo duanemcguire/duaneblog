@@ -14,4 +14,4 @@ Wade told me this surprising tale. About two weeks ago, while the river was at i
 
 As the story was told when the cart got too deep into the river, the front was grabbed by the force of the water and sent toward the culvert. At that point a bit of intelligence appeared to surface in the driver, as he jumped from the cart and into the river. The cart proceeded into the culvert where its roof was ripped off. Miraculously, the cart was propelled the entire length of the culvert without becoming lodged. The battered cart was extracted from the river south of the fifth fairway by the golf course's largest tractor and a hefty chain.
 
-I'd bet the cart driver won't be trying to ford rivers with a golf cart a second time.\[fbcomments\]
+I'd bet the cart driver won't be trying to ford rivers with a golf cart a second time.

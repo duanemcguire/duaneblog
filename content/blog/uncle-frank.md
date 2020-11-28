@@ -17,4 +17,4 @@ These are my simple word sketches of Frank's life and spirit:
 - I congratulate the old man on his first hole-in-one. He says, 'Not much to it. If you spend 40 years trying, eventually it's going to go in the hole". That's can-do.
 - The old man talks to his older brother, who complains that he can't find anyone who can do a new cedar shingle roof. The old man says, "No problem. I can do that. It will be a nice visit". That's can-do.
 
-Thank you Frank, for  your may stories, and your example of a life well-lived!\[fbcomments\]
+Thank you Frank, for  your may stories, and your example of a life well-lived!

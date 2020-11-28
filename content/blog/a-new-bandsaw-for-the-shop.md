@@ -13,4 +13,4 @@ The saw has a 13" resaw capability, which will be a great additional capability 
 
 It's going to be super for piano pinblock work.
 
-Bye Bye Craftsman bandsaw!\[fbcomments\]
+Bye Bye Craftsman bandsaw!

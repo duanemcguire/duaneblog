@@ -9,4 +9,4 @@ I'm pleased to announce that a new website for my piano business has launched! P
 
 Content there will be growing, but I'm pleased to have the starting point live. Check another thing off my list! I said it would be done by April 1, and so it is.
 
-If you visit the site, and have thoughts about how it could be more effective, let me know! Thanks.\[fbcomments\]
+If you visit the site, and have thoughts about how it could be more effective, let me know! Thanks.

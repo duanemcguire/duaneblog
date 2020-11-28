@@ -15,4 +15,4 @@ I created the adjustable height mechanism by adapting an adjustable height [cart
 
 [![Adjustable height workbench and assembly table](/images/4060949990_05951b48c7.jpg)](http://www.flickr.com/photos/duanemcguire/4060949990/ "Adjustable height workbench and assembly table by Duane McGuire, on Flickr")  
 [![Adjustable height workbench and assembly table](/images/4060950282_8bdcc42950.jpg)](http://www.flickr.com/photos/duanemcguire/4060950282/ "Adjustable height workbench and assembly table by Duane McGuire, on Flickr") Minimum working height of the table is 24 inches.  
-[![Adjustable height workbench and assembly table](/images/4060208007_0ba3144859.jpg)](http://www.flickr.com/photos/duanemcguire/4060208007/ "Adjustable height workbench and assembly table by Duane McGuire, on Flickr") Maximum working height of the table is 48 inches.\[fbcomments\]
+[![Adjustable height workbench and assembly table](/images/4060208007_0ba3144859.jpg)](http://www.flickr.com/photos/duanemcguire/4060208007/ "Adjustable height workbench and assembly table by Duane McGuire, on Flickr") Maximum working height of the table is 48 inches.

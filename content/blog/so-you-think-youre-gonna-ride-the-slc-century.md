@@ -13,4 +13,4 @@ Last week I rode my first 20 mile ride of the season. Foolishly, this week I ask
 - Troy set a leisurely pace (for him!), and I foolishly kept up with him for the first 13 miles
 - I'm carrying an extra 20 pounds THAT NEED TO GO AWAY!
 
-![27 mile route: North Ogden through West Weber](/images/theride.jpg)\[fbcomments\]
+![27 mile route: North Ogden through West Weber](/images/theride.jpg)

@@ -18,4 +18,4 @@ Reflecting on this later, I realized that though the comment had scared _me_, I 
 
 <iframe width="525" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;msa=0&amp;ll=41.103407,-112.002107&amp;spn=0.002712,0.004828&amp;t=h&amp;msid=109495183760813283268.00045cd4e24288f098e5e&amp;output=embed&amp;s=AARTsJryo67XFUDcx93hcCEH0gHw1drFkA"></iframe>
 
- [View Larger Map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=41.103407,-112.002107&spn=0.002712,0.004828&t=h&msid=109495183760813283268.00045cd4e24288f098e5e&source=embed)\[fbcomments\]
+ [View Larger Map](http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&ll=41.103407,-112.002107&spn=0.002712,0.004828&t=h&msid=109495183760813283268.00045cd4e24288f098e5e&source=embed)
