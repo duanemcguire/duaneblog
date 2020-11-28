@@ -1,0 +1,4 @@
+/page/* /
+/category/:dir/:slug /category/:slug
+/category/uncategorized /category
+/category/:dir/*/page/* /category/:dir
