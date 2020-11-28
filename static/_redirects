@@ -7,3 +7,8 @@
 /author/* /
 /:year/:month/:day/:slug /blog/:slug
 /chords https://mcguirepiano.com/jazzflash/
+# v3
+http://duanemcguire.com/* https://blog.duanemcguire.com/:splat 301!
+https://duanemcguire.com/* https://blog.duanemcguire.com/:splat 301!
+http://www.duanemcguire.com/* https://blog.duanemcguire.com/:splat 301!
+https://www.duanemcguire.com/* https://blog.duanemcguire.com/:splat 301!
