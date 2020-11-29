@@ -10,13 +10,17 @@ I bought a collection of quick change driver bits: square, phillips, hex, torx, 
 
 Well, actually it wasn't woodworking, but I used woodworking tools. The material of choice was polyethylene plastic sheet.  Very conveniently, the material was cut from an inexpensive Walmart cutting board (more on that later).  Here's the result, comparing my work with the commercial equivalent:
 
-\[caption id="attachment\_1314" align="alignnone" width="4032"\][![](/images/2019-11-15-19.40.33.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/11/2019-11-15-19.40.33.jpg) Commercial holder on the left. Shop-made holders on the right.\[/caption\]
+[![](/images/2019-11-15-19.40.33.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/11/2019-11-15-19.40.33.jpg)
+
+Commercial holder on the left. Shop-made holders on the right.
 
 As you can see, I set myself up  for a precision boring challenge.  The polyethylene sheet that I had available was sized similarly to the commercial version :  0.347 inches (11/32 inches).   The bore needed for a friction fit of the bits was 9/32 inches, which left 1/32 of an inch margin.   The material would work with that small a margin, where wood would not.   Achieving precision was the challenge.
 
 That challenge was met nicely at the drill press with the compound slide table that I'd bought recently for another purpose
 
-\[caption id="attachment\_1315" align="alignnone" width="4032"\][![](/images/2019-11-15-19.44.47.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/11/2019-11-15-19.44.47.jpg) Compound slide table from [Grizzly](https://www.grizzly.com/products/Grizzly-6-x-18-1-2-Compound-Slide-Table/G8750)\[/caption\]
+[![](/images/2019-11-15-19.44.47.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/11/2019-11-15-19.44.47.jpg)
+
+Compound slide table from [Grizzly](https://www.grizzly.com/products/Grizzly-6-x-18-1-2-Compound-Slide-Table/G8750)
 
 In setting up the operation, I carefully aligned the edge of the top vise to be within a hair's breadth (0.001 inch) of the drill bit cutting surface when the table travelled from one end of the vise to the other.   With that complete,the material could be placed in the vise and positioned for each bore with the left-right adjustment wheels.   As it turned out (pun intended), the holes were positioned by turning the wheel 3-1/2 turns (whatever distance that was).
 

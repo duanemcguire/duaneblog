@@ -25,7 +25,9 @@ I come by this love of daffodils honestly.  During my youth in Western Washingt
 
 Daffodils are my quintessential image of Spring. Of rebirth, and of Easter. I lay claim to a rich Christian heritage whose foundation was centered at Raymond Washington's First Methodist Church. For one who was (and is) a Doubting Thomas, my richest experience of Easter  is of daffodils.  In the 1960s Raymond's MYF (Methodist Youth Fellowship), with major support from Bill Morgan and parents, gathered thousands of daffodils in the week before Easter, so that on Easter morning we could display our symbol of the Resurrection outside the church. It was an amazing symbol, and an equally amazing  experience.
 
-\[caption id="attachment\_530" align="alignright" width="474"\][![](/images/64-Raymond-Methodist-Easter-Daffodil-Cross-1024x699.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/04/64-Raymond-Methodist-Easter-Daffodil-Cross.jpg) Easter 1964: Raymond First Methodist cross of thousands of daffodils\[/caption\]
+[![](/images/64-Raymond-Methodist-Easter-Daffodil-Cross-1024x699.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/04/64-Raymond-Methodist-Easter-Daffodil-Cross.jpg)
+
+Easter 1964: Raymond First Methodist cross of thousands of daffodils
 
  
 

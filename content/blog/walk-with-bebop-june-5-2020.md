@@ -8,7 +8,9 @@ coverImage: "bebop-at-the-bluff-2.jpg"
 
 We thought it would be nice to see some new things today, so we got in the car and drove out the the Bluff Trail for a walk.
 
-\[caption id="attachment\_1363" align="alignnone" width="474"\][![](/images/2020-06-05-07.02.47-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/2020-06-05-07.02.47.jpg) View to the West from the trail at 7 am\[/caption\]
+[![](/images/2020-06-05-07.02.47-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/2020-06-05-07.02.47.jpg)
+
+View to the West from the trail at 7 am
 
 At 6:30 in the morning, it was a very pleasant place for an old man and his little dog.   We saw no dogs, but a few friendly bicyclists.   Among our sightings were  birds:
 
@@ -28,7 +30,9 @@ Bebop loved all the new sights and smells.   But she also learned about cheatg
 
 If you are not an outdoors-person of the arid West, here is your primer on cheatgrass (yuck):  [http://www.usu.edu/weeds/plant\_species/weedspecies/cheatgrass.html](http://www.usu.edu/weeds/plant_species/weedspecies/cheatgrass.html) .
 
-\[caption id="attachment\_1364" align="alignnone" width="474"\][![](/images/bebop-at-the-bluff-2-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/bebop-at-the-bluff-2.jpg) Free of prickly seeds, and just enjoying the sights and smells!\[/caption\]
+[![](/images/bebop-at-the-bluff-2-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/bebop-at-the-bluff-2.jpg)
+
+Free of prickly seeds, and just enjoying the sights and smells!
 
 A good time was had by all!
 

@@ -11,7 +11,9 @@ Sometime around 1958, I was introduced to swimming lessons. I'm sure some kids c
 
 I am grateful for the enthusiasm of my parents and the program the small city of Raymond offered during my youth. Every June I was enrolled in the first (chilly) session of swim lessons. I loved the water, and learned more than anything that I was made to be pretty much drown-proof. I know that was the objective of Mom and Dad. Mission accomplished. I progressed through all the levels until the Junior Life Saving class. That was my first failure and my last class. It was a failure in that I didn't pass the class; I just didn't have the athletic strength to save Chris Halpin and get him to the other end of the pool, unless he kicked too! It was a success in that I still know   I have all the skills to save a drowning swimmer in calm waters.
 
-\[caption id="attachment\_581" align="alignnone" width="474"\][![Nevitt Memorial Pool, Raymond Washington 1962](/images/62-Raymond-Pool-Nadine-jumps-in-1024x699.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/10/62-Raymond-Pool-Nadine-jumps-in.jpg) Click on the photo for a high-res version\[/caption\]
+[![Nevitt Memorial Pool, Raymond Washington 1962](/images/62-Raymond-Pool-Nadine-jumps-in-1024x699.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/10/62-Raymond-Pool-Nadine-jumps-in.jpg)
+
+Click on the photo for a high-res version
 
 The picture above is Mom's photo from 1962 at the Nevitt Pool in Raymond.   The action shot shows my sister Nadine jumping into the deep end for the first time.  It was a momentous occasion for her.  Standing in the background, in the red trunks is the 10 year old me!  As the big brother, I really should have appeared to be more supportive.  Also in the background in the blue trunks is my friend Randy Briggs, striking the Atlas pose.  Caught in the foreground would have to be his mom,  Marie Briggs.
 

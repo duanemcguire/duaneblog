@@ -30,4 +30,6 @@ Bebop turned to me and smiled.  No, actually she gave me that doggy laugh!
 
 "See!  Everyone knows I'm adorable."
 
-\[caption id="attachment\_1357" align="alignnone" width="474"\][![](/images/best-yawn-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/best-yawn.jpg) Bebop gets the last laugh.\[/caption\]
+[![](/images/best-yawn-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/06/best-yawn.jpg)
+
+Bebop gets the last laugh.

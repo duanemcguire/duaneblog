@@ -11,11 +11,11 @@ This time of year brings temperature inversions to the valleys along the Wasatch
 
 Here's today's current conditions and forecast  (this just shows the top 5 in the nation):
 
-\[caption id="" align="alignnone" width="590" caption="From the EPA's website: airnow.gov"\][![US Current air quality January 25, 2013](/images/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013")](http://airnow.gov/)\[/caption\]
+[![US Current air quality January 25, 2013](/images/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013")](http://airnow.gov/)
 
  
 
-\[caption id="" align="alignnone" width="579" caption="From the EPA's website: airnow.gov"\][![U.S. Air quality forecast for January 25, 2013](/images/us-air-quality-forecast-01-25-2013.jpg "U.S. Air quality forecast for January 25, 2013")](http://airnow.gov/)\[/caption\]
+[![U.S. Air quality forecast for January 25, 2013](/images/us-air-quality-forecast-01-25-2013.jpg "U.S. Air quality forecast for January 25, 2013")](http://airnow.gov/)
 
  
 

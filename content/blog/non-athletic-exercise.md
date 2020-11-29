@@ -9,7 +9,9 @@ I am not an athlete! Never have been. Never will be. Of course at age 66 the tra
 
 I don't want to get whiny, but to set some background: in grade school when teams were being chosen, I was always chosen last. That's not very encouraging. From fifth grade to tenth grade, PE was a required subject. I hated PE. All the while, though, I did like my bike and rode it for miles. I did like to swim and hike in the woods. I wasn't totally unfit. I was just under-developed.
 
-\[caption id="attachment\_600" align="alignnone" width="474"\][![](/images/62-Duane-Treehouse-756x1024.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/12/62-Duane-Treehouse.jpg) Duane at age 10. Not unfit. Just under-developed!\[/caption\]
+[![](/images/62-Duane-Treehouse-756x1024.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/12/62-Duane-Treehouse.jpg)
+
+Duane at age 10. Not unfit. Just under-developed!
 
 Something changed when I was sixteen, and I didn't see the change coming. In those late high school years, I had the good fortune of working for The Dennis Company, where I loaded and unloaded trucks, I delivered truckloads of bricks and concrete blocks which were unloaded by hand. I unloaded rail cars full of animal feed in 100 pound bags. Sometimes with a partner. Sometimes without. I liked the work, and had no idea that I was building muscle.
 
@@ -23,4 +25,6 @@ After summer travel I began swimming regularly, until it became a daily habit. 
 
 It's kind of a sweetheart deal:  getting stronger while not realizing it.   It's pretty much like my good work at The Dennis Company, except I don't get the $2 per hour.
 
-\[caption id="attachment\_601" align="alignnone" width="700"\][![](/images/9499018-3x2-700x467.jpg)](https://www.abc.net.au/news/2018-03-01/george-corones-after-breaking-50m-world-record/9499054) [Something to look forward to! 99 year-old record breaker.](https://www.abc.net.au/news/2018-03-01/george-corones-after-breaking-50m-world-record/9499054)\[/caption\]
+[![](/images/9499018-3x2-700x467.jpg)](https://www.abc.net.au/news/2018-03-01/george-corones-after-breaking-50m-world-record/9499054)
+
+[Something to look forward to! 99 year-old record breaker.](https://www.abc.net.au/news/2018-03-01/george-corones-after-breaking-50m-world-record/9499054)

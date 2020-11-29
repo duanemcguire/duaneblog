@@ -9,8 +9,14 @@ I work in wood.  But for years I've wanted to get into the machinist's world to
 
 It's a tool gizmo, recognizable to piano technicians.
 
-\[caption id="attachment\_606" align="alignnone" width="474"\][![Piano wire coil winder](/images/IMG_20190218_123643-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_123643.jpg) Piano wire coil winder\[/caption\]
+[![Piano wire coil winder](/images/IMG_20190218_123643-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_123643.jpg)
 
-\[caption id="attachment\_607" align="alignnone" width="474"\][![Piano wire coil winder](/images/IMG_20190218_123654-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_123654.jpg) Piano wire coil winder\[/caption\]
+Piano wire coil winder
 
-\[caption id="attachment\_608" align="alignnone" width="474"\][![Craftsman/Atlas 12 inch lathe (1950s)](/images/IMG_20190218_105029-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_105029.jpg) Craftsman/Atlas 12 inch lathe (1950s)\[/caption\]
+[![Piano wire coil winder](/images/IMG_20190218_123654-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_123654.jpg)
+
+Piano wire coil winder
+
+[![Craftsman/Atlas 12 inch lathe (1950s)](/images/IMG_20190218_105029-1024x768.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2019/02/IMG_20190218_105029.jpg)
+
+Craftsman/Atlas 12 inch lathe (1950s)

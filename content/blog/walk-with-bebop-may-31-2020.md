@@ -9,4 +9,6 @@ Bebop enjoys the sights and smells of our walk, but she is also alert to threats
 
 We went home, but kept right on walking past, and did our usual park tour from the reverse direction. Funny little dog. Everything was just great, she says.
 
-\[caption id="attachment\_1369" align="alignnone" width="474"\][![](/images/bebop-2020-05-31-813x1024.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/05/bebop-2020-05-31.jpg) Home again after a fine walk.\[/caption\]
+[![](/images/bebop-2020-05-31-813x1024.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2020/05/bebop-2020-05-31.jpg)
+
+Home again after a fine walk.
