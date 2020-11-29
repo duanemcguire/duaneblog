@@ -39,6 +39,29 @@ export default {
     const blog = await $content('blog', params.slug).fetch()
     const categories = await $content('categories').fetch()
 
+    // build excerpt
+    var str = ""
+    if (typeof(blog.excerpt) == 'undefined') {
+      str = blog.body.children[0].children[0].value
+    } else {
+      str = blog.excerpt
+    }
+    var maxChar = 150
+    if (str) {
+      str = str.trim()
+      if (str.length > maxChar) {
+        str = str.substr(0, maxChar - 1)
+        str = str.split("").reverse().join("")
+        str = str.substring(str.indexOf(" "), str.length)
+        str = str.split("").reverse().join("")
+      }
+    }
+    blog.excerpt = str
+    var days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
+    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    var d = new Date(blog.date + " 12:00:00")
+    blog.pubdate = days[d.getDay()] + ', ' + d.getDate().toString() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear().toString() + ' 12:00:00 GMT'
+
     // Category extract
     var catName = ""
     var catNames = []
@@ -82,9 +105,14 @@ export default {
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
-          hid: this.blog.slug,
+          hid: 'description',
           name: 'description',
           content: this.blog.excerpt
+        },
+        {
+          hid: 'pubdate',
+          name: 'pubdate',
+          content: this.blog.pubdate
         }
       ]
     }

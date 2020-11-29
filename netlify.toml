@@ -7,7 +7,8 @@ package = "netlify-plugin-rss"
   site_url = "https://blog.duanemcguire.com"
   title = "Duane McGuire Blog RSS Feed"
   rssDescription = "blog.duanemcguire.com RSS Feed"
-  categories = ['family','garden','woodshop','piano technology']
+  publishDateSelector = "meta[name=pubdate]"
+  #categories = ['family','garden','woodshop','piano technology']
 
   # # optional configs, defaults shown
   # rssFaviconUrl = "https://swyx.io/favicon.png"
