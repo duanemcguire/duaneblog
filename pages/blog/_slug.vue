@@ -5,7 +5,7 @@
       <h1 style="font-size: 1.9em"> {{ blog.title }}</h1>
       <!--<prev-next :prev="prev" :next="next" />
       <BR />-->
-      <div>{{blog.date}}</div>
+      <div><time class="pubdate" :datetime="blog.date">{{blog.date}}</time></div>
       <div> Category:
         <ul class="comma-list">
           <li v-for="cat of catArray">
@@ -60,7 +60,7 @@ export default {
     var days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
     var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
     var d = new Date(blog.date + " 12:00:00")
-    blog.pubdate = days[d.getDay()] + ', ' + d.getDate().toString() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear().toString() + ' 12:00:00 GMT'
+    blog.displayDate = days[d.getDay()] + ', ' + d.getDate().toString() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear().toString()
 
     // Category extract
     var catName = ""
@@ -108,11 +108,6 @@ export default {
           hid: 'description',
           name: 'description',
           content: this.blog.excerpt
-        },
-        {
-          hid: 'pubdate',
-          name: 'pubdate',
-          content: this.blog.pubdate
         }
       ]
     }
