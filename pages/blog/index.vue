@@ -1,9 +1,9 @@
 <template>
 <div>
-  <time class="pubdate" datetime="2006-09-01"></time>
   <div class="container d-md-flex align-items-stretch mt-3">
     <div class="">
       <h1 style="font-size: 1.9em">Blog</h1>
+      <time class="pubdate" datetime="2006-09-01" style="display: none;">September 1, 2006</time>
       <div id="morecategories">
         <b>Categories&nbsp;&nbsp;</b>
         <category-cloud :categories="categories" />
