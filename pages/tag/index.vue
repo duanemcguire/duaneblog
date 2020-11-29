@@ -4,7 +4,7 @@
     <div class="">
       <h1>Tags</h1>
       <div v-for="tag in allTags">
-        <a v-bind:href = "'/tag/' + tag.slug">{{tag.name}}</a>
+        <a v-bind:href="'/tag/' + tag.slug">{{tag.name}}</a>
       </div>
     </div>
   </div>
@@ -27,18 +27,23 @@ export default {
     var allTags = []
     var allSlugs = []
 
-    String.prototype.toProperCase = function () {
-      return this.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
+    String.prototype.toProperCase = function() {
+      return this.replace(/\w\S*/g, function(txt) {
+        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+      });
     }
-    blogs.forEach(function(item){
-      item.tags.forEach(function(tag){
-        if (!allSlugs.includes(tag)){
+    blogs.forEach(function(item) {
+      item.tags.forEach(function(tag) {
+        if (!allSlugs.includes(tag)) {
           allSlugs.push(tag)
-          allTags.push({"slug": tag, "name": tag.toProperCase()})
+          allTags.push({
+            "slug": tag,
+            "name": tag.toProperCase()
+          })
         }
       })
     })
-    allTags.sort((a,b) => (a.slug > b.slug) ? 1 : -1)
+    allTags.sort((a, b) => (a.slug > b.slug) ? 1 : -1)
 
     return {
       allTags,
@@ -54,7 +59,11 @@ export default {
           name: 'description',
           content: 'Collection of blog posts about piano rebuilding and restoration'
         }
-      ]
+      ],
+      link: [{
+        rel: 'canonical',
+        href: 'https://blog.duanemcguire.com/tag/'
+      }, ]
     }
   },
 }

@@ -108,7 +108,11 @@ export default {
           name: 'description',
           content: this.blog.excerpt
         }
-      ]
+      ],
+      link: [{
+        rel: 'canonical',
+        href: 'https://blog.duanemcguire.com/blog/' + this.blog.slug
+      }, ]
     }
   },
 }

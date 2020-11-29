@@ -3,6 +3,7 @@ img: /images/excerpt/12540576_1225412840809357_123419855129492875_n.jpg
 category: [piano_technology,historic-technology,family,projects]
 title: "Just Like Downtown"
 date: "2019-04-24"
+tags: [nostalgia]
 ---
 
 Dad was someone who was known as a practical man.   He could get things done, and was always looking for the better way to do whatever needed to be done.   That better way generally involved Yankee ingenuity, and machines.

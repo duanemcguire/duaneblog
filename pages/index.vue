@@ -48,7 +48,11 @@ export default {
           name: 'description',
           content: 'Collection of blog posts about piano rebuilding and restoration'
         }
-      ]
+      ],
+      link: [{
+        rel: 'canonical',
+        href: 'https://blog.duanemcguire.com/'
+      }, ]
     }
   },
 }

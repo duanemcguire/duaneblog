@@ -3,6 +3,7 @@ img: /images/excerpt/IMG_20170919_075804.jpg
 category: [travel,family]
 title: "Artic, Washington"
 date: "2017-09-19"
+tags: [raymond]
 ---
 
 While visiting family in Grays Harbor, we stayed at Artic RV Park. It turned out to be a beautiful place. I suppose that Good Sam Club would give it less than 5 stars, but I'd give it 6. Nestled in the trees, along Highway 101 about 18 miles north of Raymond, Washington, it was a surprising delight. We were greeted warmly by the owners and offered veggies from their garden! Certainly having grown up in Raymond, I never thought that I'd ever spend a night in Artic, but there we were.

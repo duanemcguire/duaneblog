@@ -31,5 +31,22 @@ export default {
       category
     }
   },
+  head() {
+    return {
+      title: 'Blog Category: ' + this.category.name,
+      meta: [
+        // hid is used as unique identifier. Do not use `vmid` for it as it will not work
+        {
+          hid: 'description',
+          name: 'description',
+          content: 'Categories of this blog'
+        }
+      ],
+      link: [{
+        rel: 'canonical',
+        href: 'https://blog.duanemcguire.com/category/'
+      }, ]
+    }
+  }
 }
 </script>

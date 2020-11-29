@@ -50,7 +50,11 @@ export default {
           name: 'description',
           content: 'Collection of piano blog posts categorized as ' + this.category.name
         }
-      ]
+      ],
+      link: [{
+        rel: 'canonical',
+        href: 'https://blog.duanemcguire.com/category/' + this.category.slug
+      }, ]
     }
   },
 }
