@@ -5,7 +5,7 @@ import getSiteMeta from './utils/getSiteMeta';
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'mcpiano',
+    title: 'Duane McGuire Blog',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -14,6 +14,7 @@ export default {
     link: [{ rel: 'icon', type: 'image/x-icon', href: 'https://mcguirepiano.com/favicon.ico' },
     { rel: "stylesheet", type: "text/css", href: "https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" },
     { rel: "stylesheet", type: "text/css", href: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" },
+    { rel: "alternate", type: "application/rss+xml", href: "https://blog.duanemcguire.com/rss.xml" },
     ],
   },
   target: 'static',
