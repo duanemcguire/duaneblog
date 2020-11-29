@@ -4,7 +4,7 @@
     <img class="card-img-top img-fluid" :src="blog.img" :alt="blog.caption">
   </a>
   <div class="card-body">
-    {{blog.date}}
+    {{displayDate}}
     <a :href="'/blog/' + blog.slug">
       <div class="card-title">{{blog.title}}</div>
     </a>
@@ -94,9 +94,14 @@ export default {
       }
       return str
     }
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    var d = new Date(this.blog.date + " 12:00:00")
+    const displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
+
     const description = excerptBuild(this.blog, 100)
     return {
-      postExcerpt: description
+      postExcerpt: description,
+      displayDate: displayDate
     }
   },
 }

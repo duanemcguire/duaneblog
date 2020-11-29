@@ -1,11 +1,11 @@
 <template>
 <div>
   <div class="container d-md-flex align-items-stretch mt-3">
-    <div>
+    <div id="article-content">
       <h1 style="font-size: 1.9em"> {{ blog.title }}</h1>
       <!--<prev-next :prev="prev" :next="next" />
       <BR />-->
-      <div><time class="pubdate" :datetime="blog.date">{{blog.date}}</time></div>
+      <div><time class="pubdate" :datetime="blog.date">{{blog.displayDate}}</time></div>
       <div> Category:
         <ul class="comma-list">
           <li v-for="cat of catArray">
@@ -57,10 +57,9 @@ export default {
       }
     }
     blog.excerpt = str
-    var days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat']
-    var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
     var d = new Date(blog.date + " 12:00:00")
-    blog.displayDate = days[d.getDay()] + ', ' + d.getDate().toString() + ' ' + months[d.getMonth()] + ' ' + d.getFullYear().toString()
+    blog.displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
 
     // Category extract
     var catName = ""

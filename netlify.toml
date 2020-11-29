@@ -8,6 +8,7 @@ package = "netlify-plugin-rss"
   title = "Duane McGuire Blog RSS Feed"
   rssDescription = "blog.duanemcguire.com RSS Feed"
   publishDateSelector = ".pubdate"
+  contentSelector = "article-content"
   #categories = ['family','garden','woodshop','piano technology']
 
   # # optional configs, defaults shown
