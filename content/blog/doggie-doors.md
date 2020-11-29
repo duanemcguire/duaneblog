@@ -23,7 +23,7 @@ The entrance to the shop posed its own challenges.  I wasn't going to cut into t
 
 ![Shop Door, 2008](/images/shopdoor2008.jpg)
 
-*The shop door as installed in 2008 I made the door of cherry and walnut.  The walnut had been harvested from the yard of a friend in Pleasant Grove UT in the 1980s*
+*The shop door as installed in 2008 I made the door of cherry and walnut. Details of that project are [here](/blog/a-door-for-the-new-shop/)*
 
 [![Interior opening](/images/shopDogDoor1.jpg)](https://www.dropbox.com/s/9fsj8bc20lqay4b/shopDogDoor1.jpg?raw=1)
 
