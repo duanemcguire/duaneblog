@@ -1,5 +1,6 @@
 <template>
 <div>
+  <time class="pubdate" datetime="2006-09-01"></time>
   <div class="container d-md-flex align-items-stretch mt-3">
     <div class="">
       <h1 style="font-size: 1.9em">Blog</h1>
