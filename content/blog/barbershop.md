@@ -4,6 +4,7 @@ category: [random-thoughts]
 title: "Barbershop"
 date: "2018-03-11"
 tags: [nostalgia,raymond]
+excrpt: The shop was right next door to Orville Ekman's shoe repair shop. It was  somewhat smaller than your average Great Clips, and the configuration was much different.  Mr. McCartney's "workstation", the barber chair,
 ---
 
 [![](/images/936905-mlb25097885888_102016-o-2d11db71411506634b14980095258957-640-0-127x300.jpg)](http://blog.duanemcguire.com/wp-content/uploads/2018/03/936905-mlb25097885888_102016-o-2d11db71411506634b14980095258957-640-0.jpg)

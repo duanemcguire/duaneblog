@@ -9,7 +9,7 @@ Sometimes, the little joys in life just sneak up on you!  And while reporting t
 
 Terri, my wife is a committed bargain shopper at DI (if you aren't from around here, translation:  "thrift store").  The other day she dragged home a pedestal for a clothes dryer, which she said would be perfect as a planter for some potatoes.  Five dollars.  Thank you DI. Attached to the pedestal was a 30 AMP dryer cord, which she deposited in my shop, and said, "I thought maybe you could use this!"   I could only smile at the gift. ![](/images/cord.jpg)
 
-This afternoon, I took two photos of the dryer cord and listed it for sale on [ksl.com](http://www.ksl.com/index.php?nid=218&ad=19911077&cat=47&s=1) (if you aren't from around here, synonym: craigslist.org).  Eight dollars, please!    An hour later, I got the phone call.
+This afternoon, I took two photos of the dryer cord and listed it for sale on ksl.com (if you aren't from around here, synonym: craigslist.org).  Eight dollars, please!    An hour later, I got the phone call.
 
 "Hi, do you still have the 4-prong dryer cord for sale?"
 

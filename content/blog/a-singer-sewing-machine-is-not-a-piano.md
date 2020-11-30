@@ -3,6 +3,7 @@ img: /images/excerpt/2020-07-19-08.30.28-1024x768.jpg
 category: [projects,woodshop]
 title: "A Singer Sewing Machine is not a piano"
 date: "2020-09-18"
+excrpt: A singer sewing machine is not a piano. But I accepted the challenge of restoring a sewing machine cabinet that had been badly water damaged. Water and veneered pieces do not go well together.
 ---
 
 Updated 9/18/20

@@ -3,6 +3,7 @@ img: /images/excerpt/freightliner.jpg
 category: [projects,woodshop]
 title: "The Paint Job"
 date: "2009-11-24"
+excrpt: Ev was OK with that, but he did think that the boss fell a little short of the mark when he bought a new truck without power steering and with a pretty awful paint job.
 ---
 
 [![](/images/freightliner.jpg)](http://www.flickr.com/photos/southerncalifornian/351415380/in/photostream)

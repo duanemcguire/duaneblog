@@ -1,5 +1,5 @@
 ---
-img: /images/excerpt/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013"
+img: /images/excerpt/us-air-quality-current-01-25-2013.jpg
 category: [random-thoughts]
 title: "Where's the worst air in the U.S. today?"
 date: "2013-01-26"
@@ -14,11 +14,6 @@ Here's today's current conditions and forecast  (this just shows the top 5 in t
 [![US Current air quality January 25, 2013](/images/us-air-quality-current-01-25-2013.jpg "US Current air quality January 25, 2013")](http://airnow.gov/)
 
  
-
-[![U.S. Air quality forecast for January 25, 2013](/images/us-air-quality-forecast-01-25-2013.jpg "U.S. Air quality forecast for January 25, 2013")](http://airnow.gov/)
-
- 
-
 Is this unusual?  No.  It's January in Utah!
 
 Earlier this week, a group of health care professionals delivered a letter to the Governor of Utah, requesting that the Governor take immediate action and declare a healthcare emergency.  The doctors stated, "We know from thousands of medical studies that people are dying in our community right now because of air pollution and its role in triggering strokes, heart attacks, congestive heart failure and infant mortality."  Reference:  [kuer.org](http://www.kuer.org/post/doctors-call-air-pollution-healthcare-emergency "Doctors call for action on air quality")
@@ -33,7 +28,7 @@ I take exception to the Governor's solution. He "encourages everyone to exercise
 
 Earlier today, I sent my proposals to my State Representatives.   They are harsh, but would be effective.   The "individual responsibility"  approach has not worked.   We need real plans now.   Here's my proposals:
 
-  
+
 
 Representative Pray and Senator Stevenson:
 
@@ -48,5 +43,3 @@ Radical proposals? Perhaps. Do we have a big problem and do we have our head stu
 Why am I concerned? Well, I'm sick. Not terribly sick, just sick when I breathe the air. I dread January each year. If it were more than 6 weeks a year, I'd move! I'd leave the state. I'd leave the state? Hmmm. Maybe this pollution has a negative economic value to the state! Yesterday more than 100 medical professionals petitioned the Governor's office, asking for a declaration of "healthcare emergency". The governor's response was lame. He said, "Nah, it's not that bad".
 
 Big problems require bold solutions. We have a big problem.
-
-
