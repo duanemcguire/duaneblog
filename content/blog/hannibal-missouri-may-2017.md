@@ -3,6 +3,7 @@ category: [travel,best-of-facebook]
 title: "Hannibal, Missouri, May 2017"
 date: "2017-05-27"
 img: /images/excerpt/18765661_10213454245578366_6091889839740187421_n.jpg
+excrpt: Hannibal, Missouri is the home town of Samuel Clemens a.k.a. Mark Twain. The characters in his novels Tom Sawyer and Huckleberry Finn
 ---
 
 [Hannibal, Missouri](https://www.facebook.com/pages/Hannibal-Missouri/104046469632694) is the home town of Samuel Clemens a.k.a. Mark Twain. The characters in his novels Tom Sawyer and Huckleberry Finn are based on friends he knew in that town. The town has celebrated that heritage with a Twain festival, museum, and restoration of the homes of Mark Twain (Tom Sawyer), Tom Blankenship (Huck Finn), and the uncle of Laura Hawkins (Becky Thatcher).

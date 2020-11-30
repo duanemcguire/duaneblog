@@ -3,6 +3,7 @@ img: /images/excerpt/2397840090_4ed8dce7a0.jpg
 category: [health,cycling]
 title: "A Bicycle Trailer for the Golf Clubs"
 date: "2008-04-08"
+excrpt: Choices. A man always has choices. Well rather than choose golf over bicycling, or bicycling over golf ... I combined the two.
 ---
 
 [![Bicycle Trailer and golf clubs42](/images/2397840090_4ed8dce7a0.jpg)](http://www.flickr.com/photos/duanemcguire/2397840090/ "Bicycle Trailer and golf clubs42 by Duane McGuire, on Flickr") [![Bicycle Trailer and golf clubs](/images/2397007439_62c357f315.jpg)](http://www.flickr.com/photos/duanemcguire/2397007439/ "Bicycle Trailer and golf clubs by Duane McGuire, on Flickr") Choices. A man always has choices. Well rather than choose golf over bicycling, or bicycling over golf ... I combined the two.

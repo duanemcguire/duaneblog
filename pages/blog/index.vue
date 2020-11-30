@@ -3,7 +3,6 @@
   <div class="container d-md-flex align-items-stretch mt-3">
     <div class="">
       <h1 style="font-size: 1.9em">Blog</h1>
-      <time class="pubdate" datetime="2006-09-01" style="display: none;">September 1, 2006</time>
       <div id="morecategories">
         <b>Categories&nbsp;&nbsp;</b>
         <category-cloud :categories="categories" />
@@ -24,7 +23,6 @@ export default {
     var blogs = await $content('blog', {
         text: true
       })
-      .only(['title', 'description', 'img', 'slug', 'excerpt', 'body', 'date'])
       .limit(12)
       .sortBy('date', 'desc')
       .fetch()
@@ -41,7 +39,7 @@ export default {
   },
   head() {
     return {
-      title: 'Blog - McGuire Piano',
+      title: 'Blog - Duane McGuire',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
@@ -52,7 +50,7 @@ export default {
       ],
       link: [{
         rel: 'canonical',
-        href: 'https://blog.duanemcguire.com/blog/'
+        href: 'https://blog.duanemcguire.com/'
       }, ]
     }
   },

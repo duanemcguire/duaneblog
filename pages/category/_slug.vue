@@ -26,7 +26,6 @@ export default {
       .sortBy('name', 'asc')
       .fetch()
     var blogs = await $content('blog')
-      .only(['title', 'img', 'slug', 'body', 'excerpt', 'category', 'date'])
       .sortBy('date', 'desc')
       .fetch()
     blogs = blogs

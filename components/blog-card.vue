@@ -15,6 +15,51 @@
 
 </div>
 </template>
+
+<script>
+export default {
+  props: {
+    blog: {
+      type: Object,
+      required: true
+    }
+  },
+  data() {
+    function reverseString(str) {
+      return str.split("").reverse().join("");
+    }
+
+    function excerptBuild(obj, n) {
+      var str = ""
+      if (typeof(obj.excrpt) == 'undefined') {
+        str = obj.body.children[0].children[0].value
+      } else {
+        str = obj.excrpt
+      }
+
+      if (str) {
+        str = str.trim()
+        if (str.length > n) {
+          str = str.substr(0, n - 1)
+          str = reverseString(str)
+          str = str.substring(str.indexOf(" "), str.length)
+          str = reverseString(str) + '...'
+        }
+      }
+      return str
+    }
+    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
+    var d = new Date(this.blog.date + " 12:00:00")
+    const displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
+
+    const description = excerptBuild(this.blog, 100)
+    return {
+      postExcerpt: description,
+      displayDate: displayDate
+    }
+  },
+}
+</script>
 <style>
 .blog-card {
   margin-right: 10px;
@@ -61,48 +106,3 @@
   overflow: hidden;
 }
 </style>
-
-<script>
-export default {
-  props: {
-    blog: {
-      type: Object,
-      required: true
-    }
-  },
-  data() {
-    function reverseString(str) {
-      return str.split("").reverse().join("");
-    }
-
-    function excerptBuild(obj, n) {
-      var str = ""
-      if (typeof(obj.excerpt) == 'undefined') {
-        str = obj.body.children[0].children[0].value
-      } else {
-        str = obj.excerpt
-      }
-
-      if (str) {
-        str = str.trim()
-        if (str.length > n) {
-          str = str.substr(0, n - 1)
-          str = reverseString(str)
-          str = str.substring(str.indexOf(" "), str.length)
-          str = reverseString(str) + '...'
-        }
-      }
-      return str
-    }
-    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
-    var d = new Date(this.blog.date + " 12:00:00")
-    const displayDate = months[d.getMonth()] + ' ' + d.getDate().toString() + ', ' + d.getFullYear().toString()
-
-    const description = excerptBuild(this.blog, 100)
-    return {
-      postExcerpt: description,
-      displayDate: displayDate
-    }
-  },
-}
-</script>

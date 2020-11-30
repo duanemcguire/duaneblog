@@ -3,6 +3,7 @@ img: /images/excerpt/2020-08-08-16.30.42-1024x768.jpg
 category: [garden,projects]
 title: "McGuire-Henkel-Dunbar Railroad"
 date: "2020-08-08"
+excrpt: Last year I decided it was time, if ever, for me to start building a garden railroad in the backyard.
 ---
 
 Under Construction!

@@ -3,7 +3,7 @@ img: /images/excerpt/Screenshot-from-2020-08-29-15-41-06.png
 category: [woodshop]
 title: "Rikon 10-325 Bandsaw tune up"
 date: "2020-08-29"
-excerpt: I've always "liked" my Rikon bandsaw. Now, I just might learn to love it.
+excrpt: I've always "liked" my Rikon bandsaw. Now, I just might learn to love it.
 ---
 
 I've always "liked" my [Rikon bandsaw](/blog/a-mobile-base-for-the-rikon-band-saw/). Now, I just might learn to love it. The saw, like any bandsaw, needs to be well maintained and adjusted to perform well. The most annoying issue of bandsaws is their tendency to drift, if not set up with real care. I've worked at tuning up this saw in the past, but today I achieved results never before attained.

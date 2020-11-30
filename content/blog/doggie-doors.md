@@ -3,6 +3,7 @@ category: [bebop, projects]
 title: "Pet Doors for Bebop"
 date: "2020-11-29"
 img: /images/excerpt/bebop-door1.jpg
+excrpt: "This is all about a doggie door." 
 ---
 As fall approached, we knew we wanted a doggie door for Bebop.  As first-time dog owners, that wasn't obvious at first.  We had  trained Bebop to ask to go out by ringing a bell at the back door.   It's great to see that training work, but there were a few problems with that:
 - Our ears aren't the best, and we didn't always hear Bebop's gentle ringing.
@@ -23,7 +24,7 @@ The entrance to the shop posed its own challenges.  I wasn't going to cut into t
 
 ![Shop Door, 2008](/images/shopdoor2008.jpg)
 
-*The shop door as installed in 2008 I made the door of cherry and walnut. Details of that project are [here](/blog/a-door-for-the-new-shop/)*
+*The shop door as installed in 2008. I made the door of cherry and walnut. Details of that project are [here](/blog/a-door-for-the-new-shop/)*.
 
 [![Interior opening](/images/shopDogDoor1.jpg)](https://www.dropbox.com/s/9fsj8bc20lqay4b/shopDogDoor1.jpg?raw=1)
 

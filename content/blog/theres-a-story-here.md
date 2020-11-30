@@ -3,6 +3,7 @@ img: /images/excerpt/francesSpring1.jpg
 category: [historic-technology]
 title: "There’s a story here"
 date: "2004-02-26"
+excrpt: The roadside is full of delights. But when you are four years old the delights are larger than life. The roadside of my four-year-old life was US 12 between Raymond and Centralia, Washington.
 ---
 
 ![](/images/francesSpring1.jpg)

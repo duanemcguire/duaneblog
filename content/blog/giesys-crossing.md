@@ -3,6 +3,7 @@ img: /images/excerpt/5ce863ee76f42.image-crop.jpg
 category: [random-thoughts,family]
 title: "Giesy's Crossing"
 date: "2020-10-11"
+excrpt: I grew up along the Willapa River in Western Washington, where I was born 100 years after the Utopian religious group of Bethel, Missouri began to plan their migration along the Oregon Trail to the Pacific Northwest.
 ---
 
 I grew up along the [Willapa River](https://en.wikipedia.org/wiki/Willapa_River) in Western Washington, where I was born 100 years after the Utopian religious group of Bethel, Missouri began to plan their migration along the Oregon Trail to the Pacific Northwest. In 1853 Wilhelm Keil sent a scouting party led by Christian Giesy to the Oregon Territory. Giesy and his party selected a site to settle which was five miles upstream from my own eventual home along the Willapa. Prior to last week, my essential knowledge of this historical migration and settlement could be summarized by the highway marker at Giesy's Crossing:
