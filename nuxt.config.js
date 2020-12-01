@@ -69,6 +69,17 @@ export default {
 
       // then, we'll loop over each post and grab the data fields we want to show in our feed. The name of your fields might be different than mine - that depends on how your data is set up in your Content settings.
       posts.forEach((post) => {
+        var excrpt = ""
+        if (typeof(post.excrpt) == 'undefined') {
+          excrpt = post.body.children[0].children[0].value
+        } else {
+          excrpt = post.excrpt
+        }
+        const n = 150
+        if (excrpt) {
+          excrpt = excrpt.trim()
+          excrpt = excrpt.substr(0, n - 1)
+        }
         // the url of the post is set first
         const url = `https://blog.duanemcguire.com/blog/${post.slug}`;
         // then we do addItem, and give it all the details we want. You'll often see a date field here too - I don't have one because I don't post my dates on my posts.
@@ -76,7 +87,7 @@ export default {
           title: post.title,
           id: url,
           link: url,
-          description: post.blurb,
+          description: excrpt,
           // this is what we did in part two! Accessing that body text, that we converted into HTML
           content: post.bodyText,
           date: new Date(post.date),
