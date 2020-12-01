@@ -24,6 +24,10 @@
           <a :href="'/tag/' + tag">{{tag}}</a>
         </p>
       </div>
+      <div>
+        <disq-comments :blog="blog" />
+      </div>
+
     </div>
     <!--<sidebar />-->
   </div>
