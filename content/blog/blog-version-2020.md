@@ -3,6 +3,7 @@ category: [tech, random-thoughts]
 title: "Blog v. 2020"
 date: "2020-12-02"
 img: /images/excerpt/netscape.png
+excrpt: Welcome to Duane McGuire Blog Version 2020.  If you've been here before, it looks a little different, doesn't it? 
 ---
 Welcome to **Duane McGuire Blog Version 2020**.  If you've been here before, it looks a little different, doesn't it? I enjoy sharing my thoughts, activities and projects here.  Thanks for visiting.  
 
