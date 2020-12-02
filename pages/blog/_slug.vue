@@ -24,8 +24,8 @@
           <a :href="'/tag/' + tag">{{tag}}</a>
         </p>
       </div>
-      <div>
-        <!--<disq-comments :blog="blog" />-->
+      <div class="comments">
+        <Disqus />
       </div>
 
     </div>
