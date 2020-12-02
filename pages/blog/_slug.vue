@@ -24,8 +24,8 @@
           <a :href="'/tag/' + tag">{{tag}}</a>
         </p>
       </div>
-      <iframe :src="'/disqus.html?' + blog.slug " width="100%" height="450">
-      </iframe>
+      <!--      <iframe :src="'/disqus.html?' + blog.slug " width="100%" height="450">
+</iframe>-->
     </div>
     <!--<sidebar />-->
   </div>
