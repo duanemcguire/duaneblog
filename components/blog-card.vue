@@ -1,9 +1,9 @@
 <template>
-<div class="blog-card card   ">
+<div class="blog-card card" @click="goItem">
   <a :href="'/blog/' + blog.slug">
     <img class="card-img-top img-fluid" :src="blog.img" :alt="blog.caption">
   </a>
-  <div class="card-body">
+  <div class="card-body" @click="goItem">
     {{displayDate}}
     <a :href="'/blog/' + blog.slug">
       <div class="card-title">{{blog.title}}</div>
@@ -58,6 +58,11 @@ export default {
       displayDate: displayDate
     }
   },
+  methods: {
+    goItem() {
+      location.href = "/blog/" + this.blog.slug
+    }
+  }
 }
 </script>
 <style>
