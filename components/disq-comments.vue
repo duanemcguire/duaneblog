@@ -1,6 +1,8 @@
 <!-- ~/components/Comments.vue -->
 <template>
-<vue-disqus shortname="blogduanemcguirecom" :identifier="`botinabox-${blog.title}`" :url="`https://blog.duanemcguire.com/blog/${blog.slug}`"></vue-disqus>
+<div>
+  <vue-disqus shortname="blogduanemcguirecom" :identifier="`duaneblog-${blog.slug}`" :url="`https://blog.duanemcguire.com/blog/${blog.slug}`"></vue-disqus>
+</div>
 </template>
 <script>
 export default {
