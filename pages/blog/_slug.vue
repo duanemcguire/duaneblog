@@ -25,7 +25,7 @@
         </p>
       </div>
       <div>
-        <disq-comments :blog="blog" />
+        <!--<disq-comments :blog="blog" />-->
       </div>
 
     </div>
