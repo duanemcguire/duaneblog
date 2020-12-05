@@ -1,6 +1,7 @@
 <template>
 <div class="topnav pt-3" id="myTopnav">
   <a href="/">Blog</a>
+  <a href="/subscribe">Subscribe</a>
   <a href="/search.html">Search</a>
 </div>
 </template>
