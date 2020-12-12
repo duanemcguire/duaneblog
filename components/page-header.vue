@@ -1,6 +1,9 @@
 <template>
 <div style="background-color: black" class="container align-items-stretch">
   <div class="d-flex bd-highlight align-items-end">
+    <div style="float:left">
+      <img src="/images/not-a-recent-photo.resized.jpg" />
+    </div>
     <div class="p-2 flex-fill bd-highlight">
       <a style="color:white; text-decoration:none;" href="/">
         <h1>Duane McGuire Blog</h1>
