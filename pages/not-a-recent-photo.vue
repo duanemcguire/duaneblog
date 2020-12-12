@@ -16,11 +16,13 @@
     <BR />
     <img src="/images/harvey-in-the-crowd.png" />
     <img src="/images/duane-in-the-band.png" />
+    <BR /><BR />
+    And that's the way it was!
+    <BR /><BR />
+
     <iframe :src="'/hyvor.html?/not-a-recent-photo'  " width="100%" height="1000">
     </iframe>
 
-    <BR /><BR />
-    And that's the way it was!
   </div>
 </div>
 </template>
