@@ -3,6 +3,7 @@ img: /images/excerpt/IMG_20170921_085327.jpg
 category: [travel,health,family,cycling]
 title: "Willapa Hills Trail"
 date: "2017-09-22"
+tags: [raymond]
 ---
 
 Willapa Hills Trail is the former Northern Pacific spur line from Chehalis Washington to South Bend Washington.   The right-of-way has been acquired by Washington State Parks, and now serves as a biking and hiking trail.

@@ -4,6 +4,7 @@ category: [family,health]
 title: "Swimming Lessons, Then and Now"
 date: "2018-10-24"
 excrpt: Sometime around 1958, I was introduced to swimming lessons. I'm sure some kids complained about it. I wasn't one of them! That's a good thing, because swimming lessons were not optional.
+tags: raymond
 ---
 
 ## **Swim Lessons Then!**

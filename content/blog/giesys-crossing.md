@@ -2,6 +2,7 @@
 img: /images/excerpt/5ce863ee76f42.image-crop.jpg
 category: [random-thoughts,family]
 title: "Giesy's Crossing"
+tags: [raymond]
 date: "2020-10-11"
 excrpt: I grew up along the Willapa River in Western Washington, where I was born 100 years after the Utopian religious group of Bethel, Missouri began to plan their migration along the Oregon Trail to the Pacific Northwest.
 ---

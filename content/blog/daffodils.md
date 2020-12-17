@@ -3,6 +3,7 @@ img: /images/excerpt/IMG_20180408_102727-1024x768.jpg
 category: [random-thoughts,daffodils]
 title: "Daffodils"
 date: "2018-04-08"
+tags: [raymond]
 ---
 
 It is spring. Daffodils should be here.  But I am waiting and watching, as my daffodils are moving slowly (like me).   It's not every spring that I wait and watch as I do this year, but ... well ... I must admit ... I planted some daffodils last fall in a wildly optimistic moment.  And I love daffodils.

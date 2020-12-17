@@ -184,5 +184,9 @@ img {
     max-width: 320px;
   }
 
+  div {
+    max-width: 324px;
+  }
+
 }
 </style>

@@ -4,6 +4,7 @@ category: [random-thoughts]
 title: "Electrified Thoughts"
 date: "2018-05-13"
 coverImage: "meter-room-Pacific-County-PUD.jpg"
+tags: [raymond]
 ---
 
 Recently, my friend Terry Greene posted this evocative photo work on Facebook.   This piece grabbed hold of my very core,  and brought memories flooding forth.   For me,  this  is a completely natural response. The raw power of electricity is as  much a part of my upbringing as huckleberry pancakes and bread rising in a sunny window.

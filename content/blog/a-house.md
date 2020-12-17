@@ -2,6 +2,7 @@
 category: [family]
 title: "A House"
 date: "2019-02-24"
+tags: [raymond]
 img: /images/excerpt/a-house.jpg
 ---
 

@@ -26,3 +26,74 @@
   </div>
 </div>
 </template>
+<style scoped>
+.comma-list {
+  display: inline;
+  list-style: none;
+  padding: 0px;
+}
+
+.comma-list li {
+  display: inline;
+}
+
+.comma-list li::after {
+  content: ", ";
+}
+
+.comma-list li:last-child::after {
+  content: "";
+}
+
+
+.tcloud a {
+  line-height: 0.8;
+  font-size: 0.7em;
+  padding: 10px 20px;
+  text-transform: uppercase;
+  color: #595959;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: inline-block;
+  margin: 5px;
+}
+
+.tcloud p {
+  display: inline-block;
+  margin-bottom: 0px;
+}
+
+figure {
+  max-width: 600px;
+}
+
+.nuxt-content h2 {
+  font-weight: bold;
+  font-size: 28px;
+}
+
+.nuxt-content h3 {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.nuxt-content p {
+  margin-bottom: 20px;
+}
+
+img {
+  max-width: 600px;
+  margin: 0 auto;
+
+}
+
+@media screen and (max-width: 800px) {
+  img {
+    max-width: 320px;
+  }
+
+  div {
+    max-width: 324px;
+  }
+
+}
+</style>

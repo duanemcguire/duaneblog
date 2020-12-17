@@ -17,6 +17,7 @@ export default {
     params
   }) {
     var blogs = await $content('blog')
+      .sortBy('date', 'desc')
       .fetch()
     blogs = blogs
       .filter(blog => blog.hasOwnProperty('tags'))

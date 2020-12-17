@@ -1,5 +1,6 @@
 ---
-category: [random-thoughts]
+category: [random-thoughts,historic-technology]
+tags: [nostalgia,raymond]
 title: "Radio Station KAPA"
 date: "2020-12-15"
 img: /images/excerpt/kapa-jack-bob.png
