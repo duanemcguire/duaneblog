@@ -2,13 +2,13 @@
 category: [random-thoughts]
 title: "Radio Station KAPA"
 date: "2020-12-15"
-img: /images/excerpt/2020-07-01-10.57.21.jpg
+img: /images/excerpt/kapa-jack-bob.png
 ---
 It's been a long while since I've woken to the sound of Sheb Wooley singing "It was a one-eyed, one-horned, flying purple people eater...".  A few days ago, I realized I missed it.
 
 For all of the 1960s, I awoke to the sounds of KAPA, 1340 on your radio dial.  At 7 am, Mom turned it on and all the speakers of our whole-house intercom system played it.   It was time to get up and get going.  
 
-With the passage of time, it's easy to see that KAPA was more than a radio station.  It was a core fixture in that community called Raymond, Washington, or more broadly Willapa Harbor. It's one-kilowatt transmitter and the people behind it brought six or seven thousand people more tightly together.  And yes, thinking about it, I miss the tightness of the community it bound together.
+With the passage of time, it's easy to see that KAPA was more than a radio station.  It was a core fixture in that community called Raymond, Washington, or more broadly Willapa Harbor. Its one-kilowatt transmitter and the people behind it brought six or seven thousand people more tightly together.  And yes, thinking about it, I miss the tightness of the community it bound together.
 
 A few days ago, a friend mentioned that her kids were out of school.  Nearly all nearby junior and senior high schools were closed for two weeks due to an abundance of coronavirus cases.  As a senior citizen with no kids or grandchildren in school, I had no clue!  I was taken aback at my ignorance of this significant event in "my community".  And KAPA came to mind.   I should have known!  I should have heard about it on the radio!  But I have no local radio station.    I listen to KUER, the local NPR affiliate in Salt Lake City and  KCSM a 24-hour jazz station in San Mateo, California.   I live in a global village with a streaming smart speaker, but it's questionable whether I have a community!  
 
