@@ -14,6 +14,7 @@
     <div id="not-mobile-topnav" style="color: white" class=" flex-fill bd-highlight">
       <topnav />
     </div>
+    <div id="header-piano" class="align-items-end"><img src="/images/duane-head.png"></div>
 
   </div>
   <topnav id="mobile-topnav" />
@@ -25,10 +26,18 @@
   display: none
 }
 
+#header-piano {
+  padding-bottom: 30px;
+}
+
 @media screen and (max-width: 800px) {
 
   #not-mobile-topnav {
     display: none
+  }
+
+  #header-piano {
+    display: none;
   }
 
   #mobile-topnav {
