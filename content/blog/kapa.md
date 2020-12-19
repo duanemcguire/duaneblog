@@ -5,7 +5,7 @@ title: "Radio Station KAPA"
 date: "2020-12-15"
 img: /images/excerpt/kapa-jack-bob.png
 ---
-It's been a long while since I've woken to the sound of Sheb Wooley singing "It was a one-eyed, one-horned, flying purple people eater...".  A few days ago, I realized I missed it.
+It's been a long while since I've woken to the sound of Sheb Wooley singing "It was a one-eyed, one-horned, flying purple people eater..."  A few days ago, I realized I missed it.
 
 For all of the 1960s, I awoke to the sounds of KAPA, 1340 on your radio dial.  At 7 am, Mom turned it on and all the speakers of our whole-house intercom system played it.   It was time to get up and get going.  
 
@@ -42,7 +42,7 @@ McGuire home and ballfield, pretty much as they exist today.
 KAPA also integrated with the schools by hiring high schoolers to be afternoon disc jockeys at the station.  This was clearly a stroke of genius in marketing and community relations.  Bob Claunch  reached out to local drama and speech teachers to coordinate the effort.  At Raymond High School that was my drama and English teacher, Mr. Ball.  When I was a sophomore, Mr. Ball asked me if I'd like to interview for an announcing position at KAPA.   I didn't have the courage to say "yes", so I said "no" (but, yes, I've often regretted it)!
 
 ---
-Later in my Sophomore year I did go to work for the largest retailer in town, Dennis Company.   Although I didn't advance my theater and media skills there, it too was a great opportunity: a natural and privileged outgrowth of my connections in the community.  While there, I was dramatically able to see and understand the connection between the radio station and one of its principal advertisers.
+Later in my sophomore year I did go to work for the largest retailer in town, Dennis Company.   Although I didn't advance my theater and media skills there, it too was a great opportunity: a natural and privileged outgrowth of my connections in the community.  While there, I was dramatically able to see and understand the connection between the radio station and one of its principal advertisers.
 
 At that  time, KAPA had hired Virginia McKinney (mother of some of my school friends) to do an afternoon show at the station.  Virginia was a vivacious person with strong connections and a commitment to boosterism.   She was the champion of school sports, school music, and school arts. So she was perfect for the job.  At one point in her career there, she thought it a good idea to improve the cultural awareness of the townspeople by playing classical music at the station.  
 
@@ -53,7 +53,7 @@ Dennis Company was a principal advertiser at KAPA, and also continuously played 
 Classical music was a short-lived feature at radio station KAPA.
 
 ---
-Virginia McKinney, though, did get back at Gary Dennis not too much later. The Dennis Company premix concrete plant was directly across Highway 101 from the KAPA station.   One of the joys of my work was operating the plant and unloading railcars of sand and gravel.  After being trained,  I often did that task alone, operating a powered drum capstan winch to move the loaded cars and climbing into the cars to help the sand move out to the conveyor.  Virginia, one afternoon looked out the station window to witness me doing this operation solo.  I wasn't listening to the radio, but I heard about it later!   It seems that she went into a  tirade about Dennis Company allowing a kid, yes a KID, to perform these dangerous operations alone. In terms of industrial safety, she did have a point.  My solo work unloading railcars was no longer performed during the afternoon show.
+Virginia McKinney, though, did get back at Gary Dennis not too much later. The Dennis Company premix concrete plant was directly across Highway 101 from the KAPA station.   One of the joys of my work was operating the plant and unloading railcars of sand and gravel.  After being trained,  I often did that task alone, operating a powered drum capstan winch to move the loaded cars and climbing into the cars to help the sand move out to the conveyor.  One afternoon, Virginia looked out the station window to witness me doing this operation solo.  I wasn't listening to the radio, but I heard about it later!   It seems that she went into a  tirade about Dennis Company allowing a kid, yes a KID, to perform these dangerous operations alone. In terms of industrial safety, she did have a point.  My solo work unloading railcars was no longer performed during the afternoon show.
 
 ---
 That's what I knew of radio station KAPA and how it bound together our community.  We experience community, and think that we know it.   I experienced my community and thought that I knew it.  Then 40 years later in 2009, I saw the film documentary, "[Bob and Jack's 52-Year Adventure](https://www.amazon.com/Bob-Jacks-52-Year-Adventure-Maddux/dp/B000V76URO)", a story of two gay men who met in the Army and lived, with a few bumps in the road, happily ever after. It was a joy to hear their real story after so many years, and to hear their voices again, voices that I knew with absolute surety.  I understand that they have since passed, but I salute them for their success against the odds in a small lumber town in Southwest Washington.  I thank them for their contributions to a community that nurtured me.
