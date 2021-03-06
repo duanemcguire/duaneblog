@@ -19,7 +19,7 @@ And here it is in my shop, ready to replace the foreground Delta Unisaw (1961) t
 
  The Unisaw is an industry standard; I've loved having it in the shop.  I appreciate all the vintage equipment in the shop. But the Sawstop is a clear upgrade -- rather like having a BMW in the garage.  My excuse for buying it are the safety features.  My fingers and Terri are hugely supportive.  I did the research, keying in on accidents by age.   The stats show that 35 percent of accidents happen to people over the age of 65.   It's only reasonable to assume that less than 35 percent of saw usage is by people in that age group.  I don't seem to have any success reversing the effects of age.
 
-Aside from innovative safety features, the cabinet saw I bought is an extremely fine tool of industrial quality tool.  A big bonus of the new tool is the improved dust collection.   When I built the shop, I  installed a good dust collection system, but the system is only as good as the fittings on the tools.  With a direct blade shroud in the cabinet and overhead collection available for most cuts, the dust collection is superb as demonstrated here:
+Aside from innovative safety features, the cabinet saw I bought is an extremely fine tool of industrial quality.  A big bonus of the new tool is the improved dust collection.   When I built the shop, I  installed a good dust collection system, but the system is only as good as the fittings on the tools.  With a direct blade shroud in the cabinet and overhead collection available for most cuts, the dust collection is superb as demonstrated here:
 
 <iframe src="https://player.vimeo.com/video/520184222" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
