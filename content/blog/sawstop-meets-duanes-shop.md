@@ -24,7 +24,7 @@ Aside from innovative safety features, the cabinet saw I bought is an extremely 
 <iframe src="https://player.vimeo.com/video/520184222" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 The shop won't have the same vintage feel at its core, but I'll get over it.   Still in the shop are:
-- Delta wood lathe from the 1960s
+- 1960s Delta wood lathe
 - 1949 Delta radial arm saw
 - 1949 Delta drill press
 - 1980s Delta planer
