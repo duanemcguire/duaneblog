@@ -109,6 +109,11 @@ export default {
           hid: 'description',
           name: 'description',
           content: this.blog.excerpt
+        },
+        {
+          hid: 'main-image',
+          name: 'og:image',
+          content: this.blog.img
         }
       ],
       link: [{

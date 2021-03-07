@@ -46,6 +46,11 @@ export default {
           hid: 'blog-index',
           name: 'description',
           content: 'Collection of blog posts about piano rebuilding and restoration'
+        },
+        {
+          hid: 'main-image',
+          name: 'og:image',
+          content: 'https://duaneblog.mcguirepiano.com/images/duane-head.png'
         }
       ],
       link: [{

@@ -48,6 +48,11 @@ export default {
           hid: 'category-collection',
           name: 'description',
           content: 'Collection of piano blog posts categorized as ' + this.category.name
+        },
+        {
+          hid: 'main-image',
+          name: 'og:image',
+          content: this.category.img
         }
       ],
       link: [{
