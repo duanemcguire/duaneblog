@@ -14,4 +14,6 @@ This is where the project is today.  I've placed a few more blocks, and Terri ha
 
 ![](/images/GARDEN-railroad-May-2021.jpg)
 
-Springtime efforts have been in other areas!
+Springtime efforts have been in other areas, but I expect to be making weekly progress.   I saw a cool railroad in a Facebook post this afternoon, and noted that the landscaping approach is similar to mine.   On the other hand, I've got a long way to go to approach this level:
+
+[![](/images/fb-group-railroad.png)](https://www.facebook.com/groups/248809748503280/permalink/4232911193426429/)
