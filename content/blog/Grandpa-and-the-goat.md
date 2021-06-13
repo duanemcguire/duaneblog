@@ -3,18 +3,18 @@ category: [random-thoughts]
 title: "The Grandpa, The Piano, and The Goat"
 date: "2021-06-13"
 img: "/images/excerpt/goat.jpg"
-excrpt: Of my numerous piano tuning stories, this one is always a favorite.   That is, of course, because it also involves a great story-teller.
+excrpt: Of my numerous piano tuning stories, this one is always a favorite.   That is, of course, because it also involves a great storyteller.
 ---
 
-> <i>Of my numerous piano tuning stories, this one is always a favorite.   That is, of course, because it also involves a great story-teller.</i>
+> <i>Of my numerous piano tuning stories, this one is always a favorite.   That is, of course, because it also involves a great storyteller.</i>
 
 I first tuned the piano of Lisa C. It was a nice piano and Lisa was nice too, but I found no story there. Lisa liked the tuning and referred me to her mom, Mrs. C.   I tuned Mrs. C's piano.   It was a nice piano and Mrs. C was nice too, but I found no story there.  Mrs. C. liked the tuning, and she referred me to her mom and dad.  As you might expect, that's actually the beginning of the story.
 
 ![](/images/goat.jpg)
 
-Story-telling comes naturally to folks born before 1940.   I know, not because I'm that old, but because I sat around the Sunday dinner table with my grandparents and aunts and uncles.   The stories were told, and retold, and enhanced, and corrected by others.  It was just pure fun to listen, learn and laugh.   
+Storytelling comes naturally to folks born before 1940.   I know, not because I'm that old, but because I sat around the Sunday dinner table with my grandparents and aunts and uncles.   The stories were told, and retold, and enhanced, and corrected by others.  It was just pure fun to listen, learn and laugh.   
 
-I came to tune Grandpa and Grandma C's woefully out of tune piano at the old family farm.  As I began my work, Grandpa and Grandma took their seats in matching recliners behind me.   I knew that this tuning would take a while and be social!  
+At their old family farm, I came to tune Grandpa and Grandma C's woefully out of tune piano.  As I began my work, Grandpa and Grandma took their seats in matching recliners behind me.   I knew that this tuning would take a while and be social!  
 
 Grandma C started the conversation predictably by asking, "Is the piano really far out of tune?"  
 
